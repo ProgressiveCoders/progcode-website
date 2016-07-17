@@ -15,9 +15,9 @@
 	"owner": "Saikat Chakrabarti",
 	"description": "The definitive guide to working on the Brand New Congress tech team",
 	"project_url": "https://github.com/BrandNewCongress/welcome",
-  "owner_url": "https://github.com/BrandNewCongress",
+  "owner_url": "https://github.com/saikat",
 	"slack_url": "https://progcode.slack.com/messages/brandnewcongress/",
-  "site_url": "http://www.brandnewcongress.org",
+  "site_url": "https://github.com/BrandNewCongress/welcome",
 	"owner_image": "https://avatars0.githubusercontent.com/u/83782?v=3",
 	"site_image": "http://i.imgur.com/1BN6Eo4.png",
 	"channel": "#brandnewcongress",
@@ -40,10 +40,10 @@
 	"description": "Join us for the future of our political movement.",
   "site_url": "http://www.ourrevolution.com",
 	"project_url": "https://github.com/Our-Revolution/landing-page",
-	"slack_url": "",
+	"slack_url": "http://slack.codecorp.org",
 	"owner_image": "http://i.imgur.com/HBVRIL3.png",
 	"site_image": "http://i.imgur.com/c8SocAt.png",
-	"channel": "",
+	"channel": "#our-revolution",
 	"is_featured": "TRUE"
 }, {
 	"name": "Movement",
@@ -56,5 +56,18 @@
 	"owner_image": "https://avatars3.githubusercontent.com/u/321667?v=3\u0026s=460",
 	"site_image": "http://i.imgur.com/tktQRly.png",
 	"channel": "#movement",
+	"is_featured": "TRUE"
+},
+{
+	"name": "ProgCode Core",
+	"owner": "Rapi Castillo",
+	"description": "We are building a team to make ProgCode a strong and sustainable network.",
+  "site_url": "http://www.progcode.co",
+  "owner_url": "https://github.com/rapicastillo",
+	"project_url": "https://github.com/code-corps",
+	"slack_url": "http://slack.codecorp.org",
+	"owner_image": "https://avatars0.githubusercontent.com/u/399692?v=3",
+	"site_image": "./img/logo.png",
+	"channel": "#progcode-core",
 	"is_featured": "TRUE"
 }]

@@ -6,8 +6,13 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Hundreds of coders created online tools for Bernie Sanders' campaign, boosting the movement by engaging millions of people to vote, volunteer, and inform themselves about the issues.">
+    <meta name="description" content="Hundreds of tech volunteers created online tools for Bernie Sanders' campaign, boosting the movement by engaging millions of people to vote, volunteer, and inform themselves about the issues.">
     <meta name="author" content="">
+    <meta property="og:url" content="http://www.progcode.co" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Progressive Coders Network" />
+    <meta property="og:description" content="Hundreds of tech volunteers created online tools for Bernie Sanders' campaign, boosting the movement by engaging millions of people to vote, volunteer, and inform themselves about the issues." />
+    <meta property="og:image" content="http://www.progcode.co/img/social-media-1.png" />
 
     <title>Progressive Coders Network</title>
 

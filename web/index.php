@@ -88,7 +88,7 @@
                         <hr class="intro-divider">
                         <ul class="list-inline intro-social-buttons">
                           <li>
-                              <a href="http://slack.progcode.co" class="btn btn-default btn-lg"><img src='./img/slack.png' height="20" width="20"> <span class="network-name">Join us in Slack</span></a>
+                              <a href="http://goo.gl/forms/8SJRDlo7Lx2rUsan1" class="btn btn-default btn-lg"><img src='./img/slack.png' height="20" width="20"> <span class="network-name">Join us in Slack</span></a>
                           </li>
                           <li>
                               <a href="https://actionnetwork.org/events/1st-progressive-coders-network-natl-hands-on-meeting" class="btn btn-default btn-lg"><i class="fa fa-calendar-o" aria-hidden="true"></i> <span class="network-name">1st Nat'l Hands-On Meeting</span></a>
@@ -192,7 +192,7 @@
                             <a href="https://www.facebook.com/Progressive-Coders-Network-1626194004374265/" class="btn btn-default btn-lg"><i class="fa fa-facebook fa-fw"></i> <span class="network-name">Facebook</span></a>
                         </li>
                         <li>
-                            <a href="http://slack.progcode.co" class="btn btn-default btn-lg"><img src='./img/slack.png' height="20" width="20"> <span class="network-name">Join us in Slack</span></a>
+                            <a href="http://goo.gl/forms/8SJRDlo7Lx2rUsan1" class="btn btn-default btn-lg"><img src='./img/slack.png' height="20" width="20"> <span class="network-name">Join us in Slack</span></a>
                         </li>
                     </ul>
                 </div>

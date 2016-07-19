@@ -36,14 +36,14 @@
 	"is_featured": "TRUE"
 }, {
 	"name": "Our Revolution",
-	"owner": "Hector Sigala",
+	"owner": "Chris Mabry",
 	"description": "Join us for the future of our political movement.",
   "site_url": "http://www.ourrevolution.com",
-	"project_url": "https://github.com/Our-Revolution/landing-page",
+	"project_url": "",
 	"slack_url": "http://slack.codecorp.org",
-	"owner_image": "http://i.imgur.com/HBVRIL3.png",
+	"owner_image": "https://avatars0.githubusercontent.com/u/3048335?v=3",
 	"site_image": "http://i.imgur.com/c8SocAt.png",
-	"channel": "#our-revolution",
+	"channel": "",
 	"is_featured": "TRUE"
 }, {
 	"name": "Movement",
@@ -51,6 +51,7 @@
 	"description": "We help campaigns organize volunteers without paying for software or hiring staff. Volunteers can match to candidates, learn to canvass, and find doors to knock on.",
   "site_url": "http://www.getmovement.org",
 	"project_url": "https://github.com/getmovement",
+	"owner_url": "https://github.com/rapicastillo",
 	"slack_url": "http://slack.codecorp.org",
   "owner_url": "https://github.com/JoshSmith",
 	"owner_image": "https://avatars3.githubusercontent.com/u/321667?v=3\u0026s=460",
@@ -64,7 +65,7 @@
 	"description": "We are building a team to make ProgCode a strong and sustainable network.",
   "site_url": "http://www.progcode.co",
   "owner_url": "https://github.com/rapicastillo",
-	"project_url": "https://github.com/code-corps",
+	"project_url": "https://github.com/ProgressiveCoders",
 	"slack_url": "http://slack.codecorp.org",
 	"owner_image": "https://avatars0.githubusercontent.com/u/399692?v=3",
 	"site_image": "./img/logo.png",

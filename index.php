@@ -6,8 +6,13 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
+    <meta name="description" content="Hundreds of tech volunteers created online tools for Bernie Sanders' campaign, boosting the movement by engaging millions of people to vote, volunteer, and inform themselves about the issues.">
     <meta name="author" content="">
+    <meta property="og:url" content="http://www.progcode.co" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Progressive Coders Network" />
+    <meta property="og:description" content="Hundreds of tech volunteers created online tools for Bernie Sanders' campaign, boosting the movement by engaging millions of people to vote, volunteer, and inform themselves about the issues." />
+    <meta property="og:image" content="http://www.progcode.co/img/social-media-1.png" />
 
     <title>Progressive Coders Network</title>
 
@@ -164,7 +169,7 @@
                     <p><a href="https://actionnetwork.org/events/1st-progressive-coders-network-natl-hands-on-meeting" class="btn btn-default btn-lg"><i class="fa fa-calendar-o" aria-hidden="true"></i> <span class="network-name">RSVP</span></a></p>
                 </div>
                 <div class="col-lg-5 col-sm-pull-6  col-sm-6">
-                    <img class="img-responsive" src="img/dog.png" alt="">
+                    <img class="img-responsive" src="img/social-media-1.png" alt="">
                 </div>
             </div>
           </div>
@@ -248,7 +253,22 @@
           .enter()
           .append("div")
             .attr("class", "project-content-container col-lg-4 col-sm-6")
-            .html(function(d) { return `
+            .html(function(d) { 
+              
+              var channel_button = d.channel && d.channel != "" ? `<a href='http://slack.progcode.co' 
+                data-toggle="tooltip" 
+                title="${d.channel}"
+                data-placement="top"
+                class='proj-links'><img src='./img/slack.png' height='20' width='20'></a>` : "";
+                
+              var project_button = d.project_url && d.project_url != "" ? `
+                <a href='${d.project_url}' 
+                  data-toggle="tooltip" 
+                  title="Contribute"
+                  data-placement="top"
+                  class='proj-links'><i class='fa fa-github fa-fw' aria-hidden='true'></i></a>
+              ` : "";
+              return `
             <div class='project-item'>
               <div class='project-image' style='background-image: url(${d.site_image})'>
                 <div class='spiel'>
@@ -265,16 +285,7 @@
                 </div>
                 <div class='clearfix'></div>
                 <div class='links-area'>
-                  <a href='http://slack.progcode.co' 
-                    data-toggle="tooltip" 
-                    title="${d.channel}"
-                    data-placement="top"
-                    class='proj-links'><img src='./img/slack.png' height='20' width='20'></a>&nbsp;
-                  <a href='${d.project_url}' 
-                    data-toggle="tooltip" 
-                    title="Contribute"
-                    data-placement="top"
-                    class='proj-links'><i class='fa fa-github fa-fw' aria-hidden='true'></i></a>
+                  ${channel_button}&nbsp;${project_button}
                 </div>
               </div>
             </div>
@@ -288,6 +299,16 @@
     }(window, d3, jQuery);
     
     
+    </script>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-80932028-1', 'auto');
+      ga('send', 'pageview');
+
     </script>
 </body>
 

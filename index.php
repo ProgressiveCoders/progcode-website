@@ -116,8 +116,8 @@
               </p>
               <p class="lead">
                 We're building on that momentum and creating a sustainable network of volunteers: creating open-source tools
-                for progressive candidates; helping them compete without needing millions of dollars in funding; enabling
-                progressive candidates to champion a platform centered in social and economic justice without big money's influence.
+                for the progressive movement; helping progressive candidates compete without needing millions of dollars in funding; enabling
+                them to champion a platform centered in social and economic justice without big money's influence.
               </p>
               <p class="text-center">
                 <img src='./img/logo-only.png' />

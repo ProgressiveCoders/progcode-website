@@ -255,6 +255,7 @@
             .attr("class", "project-content-container col-lg-4 col-sm-6")
             .html(function(d) { 
               
+              var owner = d.owner_url != "" ? `<a href='${d.owner_url}'>${d.owner}</a>` : d.owner;
               var channel_button = d.channel && d.channel != "" ? `<a href='http://slack.progcode.co' 
                 data-toggle="tooltip" 
                 title="${d.channel}"
@@ -281,7 +282,7 @@
                 <div>
                   <span class='owner-image' style='background-image: url(${d.owner_image})'></span>
                   <h4><a href='${d.site_url}'>${d.name}</a></h4>
-                  <h5><a href='${d.owner_url}'>${d.owner}</a></h5>
+                  <h5>${owner}</h5>
                 </div>
                 <div class='clearfix'></div>
                 <div class='links-area'>

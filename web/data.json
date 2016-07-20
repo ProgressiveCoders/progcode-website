@@ -19,8 +19,20 @@
 	"slack_url": "https://progcode.slack.com/messages/brandnewcongress/",
   "site_url": "https://github.com/BrandNewCongress/welcome",
 	"owner_image": "https://avatars0.githubusercontent.com/u/83782?v=3",
-	"site_image": "http://i.imgur.com/1BN6Eo4.png",
+	"site_image": "http://i.imgur.com/p3APZRy.png",
 	"channel": "#brandnewcongress",
+	"is_featured": "TRUE"
+}, {
+	"name": "Progressive Directory",
+	"owner": "Meghan Dunn",
+	"description": "To serve as a directory of relief-oriented organizations, entities, and actors who share mission-driven initiatives and visions.",
+	"project_url": "",
+  "owner_url": "",
+	"slack_url": "https://progcode.slack.com/messages/brandnewcongress/",
+  "site_url": "https://docs.google.com/a/colorado.edu/document/d/1VHF0pkyay7MHDWU4rzGDp0tWhlJLfozPQeGC48giOxo/edit?usp=sharing",
+	"owner_image": "http://i.imgur.com/F0XocFf.png",
+	"site_image": "http://i.imgur.com/myGvbfT.png",
+	"channel": "#progressive-directory",
 	"is_featured": "TRUE"
 }, {
 	"name": "Code Corps",
@@ -29,10 +41,22 @@
   "site_url": "http://codecorps.org",
   "owner_url": "https://github.com/JoshSmith",
 	"project_url": "https://github.com/code-corps",
-	"slack_url": "http://slack.codecorp.org",
+	"slack_url": "http://slack.progcode.org",
 	"owner_image": "https://avatars3.githubusercontent.com/u/321667?v=3",
-	"site_image": "http://i.imgur.com/1VUGfgO.png",
+	"site_image": "http://i.imgur.com/Y1QjWCH.png",
 	"channel": "#code-corps",
+	"is_featured": "TRUE"
+}, {
+	"name": "Politics Reborn",
+	"owner": "Vigie Ramos Rios",
+	"description": "An issue-oriented political organization created and developed by volunteers and campaign officials who put in a great deal of time and money helping Bernie Sanders in his presidential campaign.",
+	"project_url": "",
+  "owner_url": "",
+	"slack_url": "https://progcode.slack.com/messages/brandnewcongress/",
+  "site_url": "http://www.politicsreborn.org",
+	"owner_image": "http://i.imgur.com/v7bumDZ.png",
+	"site_image": "http://i.imgur.com/OqllDIK.png",
+	"channel": "#politics-reborn",
 	"is_featured": "TRUE"
 }, {
 	"name": "Our Revolution",
@@ -40,7 +64,7 @@
 	"description": "Join us for the future of our political movement.",
   "site_url": "http://www.ourrevolution.com",
 	"project_url": "",
-	"slack_url": "http://slack.codecorp.org",
+	"slack_url": "http://slack.progcode.org",
 	"owner_image": "https://avatars0.githubusercontent.com/u/3048335?v=3",
 	"site_image": "http://i.imgur.com/c8SocAt.png",
 	"channel": "",
@@ -52,10 +76,10 @@
   "site_url": "http://www.getmovement.org",
 	"project_url": "https://github.com/getmovement",
 	"owner_url": "https://github.com/rapicastillo",
-	"slack_url": "http://slack.codecorp.org",
+	"slack_url": "http://slack.progcode.org",
   "owner_url": "https://github.com/JoshSmith",
-	"owner_image": "https://avatars3.githubusercontent.com/u/321667?v=3\u0026s=460",
-	"site_image": "http://i.imgur.com/tktQRly.png",
+	"owner_image": "https://avatars3.githubusercontent.com/u/321667",
+	"site_image": "http://i.imgur.com/8XIUBIf.png",
 	"channel": "#movement",
 	"is_featured": "TRUE"
 },
@@ -68,7 +92,7 @@
 	"project_url": "https://github.com/ProgressiveCoders",
 	"slack_url": "http://slack.codecorp.org",
 	"owner_image": "https://avatars0.githubusercontent.com/u/399692?v=3",
-	"site_image": "./img/logo.png",
+	"site_image": "http://i.imgur.com/myGvbfT.png",
 	"channel": "#progcode-core",
 	"is_featured": "TRUE"
 }]

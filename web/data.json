@@ -29,10 +29,22 @@
 	"project_url": "",
   "owner_url": "",
 	"slack_url": "https://progcode.slack.com/messages/brandnewcongress/",
-  "site_url": "https://docs.google.com/a/colorado.edu/document/d/1VHF0pkyay7MHDWU4rzGDp0tWhlJLfozPQeGC48giOxo/edit?usp=sharing",
+  "site_url": "",
 	"owner_image": "http://i.imgur.com/F0XocFf.png",
 	"site_image": "http://i.imgur.com/myGvbfT.png",
 	"channel": "#progressive-directory",
+	"is_featured": "TRUE"
+}, {
+	"name": "Grassroots PB",
+	"owner": "Laksh Bhasin",
+	"description": "GrassrootsPB brings phone banking and fun together by providing a platform where callers can engage each other in friendly competition while doing meaningful work for progressive, down-ballot candidates.",
+	"project_url": "",
+  "owner_url": "https://github.com/lakshbhasin",
+	"slack_url": "",
+  "site_url": "http://www.grassrootspb.com",
+	"owner_image": "https://avatars0.githubusercontent.com/u/1183879?v=3&s=460",
+	"site_image": "http://i.imgur.com/mMm2L0d.png",
+	"channel": "",
 	"is_featured": "TRUE"
 }, {
 	"name": "Code Corps",

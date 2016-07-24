@@ -13,7 +13,7 @@
     <meta property="og:title" content="Progressive Coders Network" />
     <meta property="og:description" content="Hundreds of tech volunteers created online tools for Bernie Sanders' campaign, boosting the movement by engaging millions of people to vote, volunteer, and inform themselves about the issues." />
     <meta property="og:image" content="http://www.progcode.co/img/social-media-1.png" />
-
+    <link rel="shortcut icon" href="/img/logo-only.png" />
     <title>Progressive Coders Network</title>
 
     <!-- Bootstrap Core CSS -->
@@ -91,7 +91,7 @@
                               <a href="http://goo.gl/forms/8SJRDlo7Lx2rUsan1" class="btn btn-default btn-lg"><img src='./img/slack.png' height="20" width="20"> <span class="network-name">Join us in Slack</span></a>
                           </li>
                           <li>
-                              <a href="https://actionnetwork.org/events/1st-progressive-coders-network-natl-hands-on-meeting" class="btn btn-default btn-lg"><i class="fa fa-calendar-o" aria-hidden="true"></i> <span class="network-name">1st Nat'l Hands-On Meeting</span></a>
+                              <a href="https://actionnetwork.org/events/progcode-discussion-data" class="btn btn-default btn-lg"><i class="fa fa-calendar-o" aria-hidden="true"></i> <span class="network-name">ProgCode Discussion #001 - Sustainable Data</span></a>
                           </li>
                         </ul>
                     </div>
@@ -122,6 +122,11 @@
               <p class="text-center">
                 <img src='./img/logo-only.png' />
               </p>
+              <h2>Watch: 1st ProgCode All-Hands Meeting</h2>
+              <p style='text-align: center'>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/J_0jsvpzxBw" frameborder="0" allowfullscreen></iframe>
+              </p>
+            
             </div>
           </div>
         </div>
@@ -160,16 +165,16 @@
           <div class="container">
 
             <div class="row">
-                <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
+                <div class="col-lg-5 col-sm-push-6  col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading">1st Hands-On Meeting</h2>
-                    <h4 class="section-heading">July 22, 2016, 8PM EST</h4>
-                    <p class="lead">Join us to discuss how we can support Progressive candidates through open-source technology. Coders from <a href="http://www.codecorps.org">CodeCorps</a>, <a href="http://www.brandnewcongress.org">BrandNewCongress</a>, <a href="http://progressiveevents.org">ProgressiveEvents.org</a>, and other grassroots tech, will talk about what they are working on and how you can contribute to this growing network of volunteers.</p>
-                    <p><a href="https://actionnetwork.org/events/1st-progressive-coders-network-natl-hands-on-meeting" class="btn btn-default btn-lg"><i class="fa fa-calendar-o" aria-hidden="true"></i> <span class="network-name">RSVP</span></a></p>
+                    <h2 class="section-heading">ProgCode Discussion #001 - Sustainable Data</h2>
+                    <h4 class="section-heading">August 2, 2016, 8:30p EST</h4>
+                    <p class="lead">Join us as we talk about data with an amazing panel (to be announced on July 29) who will discuss their respective projects. These projects' main objective is create, utilize, and collect a sustainable data structure and source for the progressive movement, and to provide a space where people will be excited in volunteering, voting, and collecting data.</p>
+                    <p><a href="https://actionnetwork.org/events/progcode-discussion-data" class="btn btn-default btn-lg"><i class="fa fa-calendar-o" aria-hidden="true"></i> <span class="network-name">RSVP</span></a></p>
                 </div>
-                <div class="col-lg-5 col-sm-pull-6  col-sm-6">
-                    <img class="img-responsive" src="img/social-media-1.png" alt="">
+                <div class="col-lg-7 col-sm-pull-6  col-sm-6">
+                    <img class="img-responsive" src="https://can2-prod.s3.amazonaws.com/events/photos/000/111/265/original/Events_Banner.png" alt="">
                 </div>
             </div>
           </div>

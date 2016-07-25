@@ -11,6 +11,13 @@
   background-position: center center;
 }
 
+.network-name {
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: 1px;
+}
+
 nav.navbar-default {
   background-color: white;
   a.navbar-brand {

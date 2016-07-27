@@ -261,7 +261,7 @@
             .html(function(d) { 
               
               var owner = d.owner_url != "" ? `<a href='${d.owner_url}'>${d.owner}</a>` : d.owner;
-              var channel_button = d.channel && d.channel != "" ? `<a href='http://slack.progcode.co' 
+              var channel_button = d.channel && d.channel != "" ? `<a href='http://goo.gl/forms/8SJRDlo7Lx2rUsan1' 
                 data-toggle="tooltip" 
                 title="${d.channel}"
                 data-placement="top"

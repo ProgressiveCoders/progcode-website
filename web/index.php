@@ -160,7 +160,7 @@
   <a  name="events"></a>
       <!-- /.content-section-b -->
 
-      <div id="events-area" class="content-section-b">
+      <!-- div id="events-area" class="content-section-b">
 
           <div class="container">
 
@@ -178,9 +178,8 @@
                 </div>
             </div>
           </div>
-          <!-- /.container -->
 
-      </div>
+      </div -->
 
 	<a  name="contact"></a>
     <div class="banner">

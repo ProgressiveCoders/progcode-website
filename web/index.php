@@ -91,7 +91,7 @@
                               <a href="http://goo.gl/forms/8SJRDlo7Lx2rUsan1" class="btn btn-default btn-lg"><img src='./img/slack.png' height="20" width="20"> <span class="network-name">Join us in Slack</span></a>
                           </li>
                           <li>
-                              <a href="https://actionnetwork.org/events/progcode-discussion-data" class="btn btn-default btn-lg"><i class="fa fa-calendar-o" aria-hidden="true"></i> <span class="network-name">Discussion #1 - Sustainable Progressive Data</span></a>
+                              <a href="https://www.youtube.com/watch?v=l03OZhcEfmQ" class="btn btn-default btn-lg"><i class="fa fa-calendar-o" aria-hidden="true"></i> <span class="network-name">Watch: "Take Over: Grassroots Tech Strategies"</span></a>
                           </li>
                         </ul>
                     </div>

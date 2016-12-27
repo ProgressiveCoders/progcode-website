@@ -85,7 +85,7 @@
                         <hr class="intro-divider">
                         <ul class="list-inline intro-social-buttons">
                           <li>
-                              <a href="https://airtable.com/shrSnsmAIGWD1oGIL" class="btn btn-default btn-lg"><img src='./img/slack.png' height="20" width="20"> <span class="network-name">Join us in Slack</span></a>
+                              <a href="https://goo.gl/ALDIiv" class="btn btn-default btn-lg"><img src='./img/slack.png' height="20" width="20"> <span class="network-name">Join us in Slack</span></a>
                           </li>
                           <li>
                               <a href="https://www.youtube.com/watch?v=ZNVMl19FbTE" class="btn btn-default btn-lg"><i class="fa fa-calendar-o" aria-hidden="true"></i> <span class="network-name">Watch: Progressive Tech after Brexit</span></a>
@@ -192,7 +192,7 @@
                             <a href="https://www.facebook.com/Progressive-Coders-Network-1626194004374265/" class="btn btn-default btn-lg"><i class="fa fa-facebook fa-fw"></i> <span class="network-name">Facebook</span></a>
                         </li>
                         <li>
-                            <a href="https://airtable.com/shrSnsmAIGWD1oGIL" class="btn btn-default btn-lg"><img src='./img/slack.png' height="20" width="20"> <span class="network-name">Join us in Slack</span></a>
+                            <a href="https://goo.gl/ALDIiv" class="btn btn-default btn-lg"><img src='./img/slack.png' height="20" width="20"> <span class="network-name">Join us in Slack</span></a>
                         </li>
                     </ul>
                 </div>
@@ -255,7 +255,7 @@
             .html(function(d) { 
               
               var owner = d.owner_url != "" ? `<a href='${d.owner_url}'>${d.owner}</a>` : d.owner;
-              var channel_button = d.channel && d.channel != "" ? `<a href='https://airtable.com/shrSnsmAIGWD1oGIL' 
+              var channel_button = d.channel && d.channel != "" ? `<a href='https://goo.gl/ALDIiv' 
                 data-toggle="tooltip" 
                 title="${d.channel}"
                 data-placement="top"

@@ -58,9 +58,6 @@
                         <a href="#about">About</a>
                     </li>
                     <li>
-                        <a href="#projects">Featured Projects</a>
-                    </li>
-                    <li>
                         <a href="#events">Events</a>
                     </li>
                     <li>
@@ -88,10 +85,10 @@
                         <hr class="intro-divider">
                         <ul class="list-inline intro-social-buttons">
                           <li>
-                              <a href="http://goo.gl/forms/8SJRDlo7Lx2rUsan1" class="btn btn-default btn-lg"><img src='./img/slack.png' height="20" width="20"> <span class="network-name">Join us in Slack</span></a>
+                              <a href="https://airtable.com/shrSnsmAIGWD1oGIL" class="btn btn-default btn-lg"><img src='./img/slack.png' height="20" width="20"> <span class="network-name">Join us in Slack</span></a>
                           </li>
                           <li>
-                              <a href="https://www.youtube.com/watch?v=l03OZhcEfmQ" class="btn btn-default btn-lg"><i class="fa fa-calendar-o" aria-hidden="true"></i> <span class="network-name">Watch: "Take Over: Grassroots Tech Strategies"</span></a>
+                              <a href="https://www.youtube.com/watch?v=ZNVMl19FbTE" class="btn btn-default btn-lg"><i class="fa fa-calendar-o" aria-hidden="true"></i> <span class="network-name">Watch: Progressive Tech after Brexit</span></a>
                           </li>
                         </ul>
                     </div>
@@ -122,9 +119,9 @@
               <p class="text-center">
                 <img src='./img/logo-only.png' />
               </p>
-              <h2>Watch: 1st ProgCode All-Hands Meeting</h2>
+              <h2>Watch our recent Community Meeting: <br/>Trust and Networks</h2>
               <p style='text-align: center'>
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/J_0jsvpzxBw" frameborder="0" allowfullscreen></iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/KZm_qaGKCHg" frameborder="0" allowfullscreen></iframe>
               </p>
             
             </div>
@@ -138,7 +135,7 @@
 	<a  name="projects"></a>
     <!-- /.content-section-b -->
 
-    <div id="projects-area" class="content-section-a">
+    <!-- div id="projects-area" class="content-section-a">
 
         <div class="container">
 
@@ -153,14 +150,13 @@
             <div class="row" id="projects-container">
             </div>
         </div>
-        <!-- /.container -->
 
-    </div>
+    </div -->
   <!-- /.content-section-a -->
   <a  name="events"></a>
       <!-- /.content-section-b -->
 
-      <!-- div id="events-area" class="content-section-b">
+      <div id="events-area" class="content-section-b">
 
           <div class="container">
 
@@ -168,18 +164,18 @@
                 <div class="col-lg-5 col-sm-push-6  col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading">ProgCode Discussion #001 - Sustainable Data</h2>
-                    <h4 class="section-heading">August 2, 2016, 8:30p EST</h4>
-                    <p class="lead">Join us as we talk about data with an amazing panel (to be announced on July 29) who will discuss their respective projects. These projects' main objective is create, utilize, and collect a sustainable data structure and source for the progressive movement, and to provide a space where people will be excited in volunteering, voting, and collecting data.</p>
-                    <p><a href="https://actionnetwork.org/events/progcode-discussion-data" class="btn btn-default btn-lg"><i class="fa fa-calendar-o" aria-hidden="true"></i> <span class="network-name">RSVP</span></a></p>
+                    <h2 class="section-heading">Weekly Onboarding</h2>
+                    <h4 class="section-heading">January 2, 2017, 8:30p EST</h4>
+                    <p class="lead">Whether you're brand new to Progressive Coders Network or have been around for a while and want to learn more about the team, connect with your fellow community members, and learn how you can get involved, please stop on by. During the call we'll provide a team overview, share our goals, strategy, plan, and team functions and needs, as well as make introductions, highlight experiences, and have an open Q&A.</p>
+                    <p><a href="https://zoom.us/meeting/register/c07b1af895b269f3cde7dc3c8da9331e" class="btn btn-default btn-lg"><i class="fa fa-calendar-o" aria-hidden="true"></i> <span class="network-name">RSVP</span></a></p>
                 </div>
                 <div class="col-lg-7 col-sm-pull-6  col-sm-6">
-                    <img class="img-responsive" src="https://can2-prod.s3.amazonaws.com/events/photos/000/111/265/original/Events_Banner.png" alt="">
+                    <img class="img-responsive" src="http://i.imgur.com/VVeawuN.png" alt="">
                 </div>
             </div>
           </div>
 
-      </div -->
+      </div>
 
 	<a  name="contact"></a>
     <div class="banner">
@@ -196,7 +192,7 @@
                             <a href="https://www.facebook.com/Progressive-Coders-Network-1626194004374265/" class="btn btn-default btn-lg"><i class="fa fa-facebook fa-fw"></i> <span class="network-name">Facebook</span></a>
                         </li>
                         <li>
-                            <a href="http://goo.gl/forms/8SJRDlo7Lx2rUsan1" class="btn btn-default btn-lg"><img src='./img/slack.png' height="20" width="20"> <span class="network-name">Join us in Slack</span></a>
+                            <a href="https://airtable.com/shrSnsmAIGWD1oGIL" class="btn btn-default btn-lg"><img src='./img/slack.png' height="20" width="20"> <span class="network-name">Join us in Slack</span></a>
                         </li>
                     </ul>
                 </div>
@@ -221,10 +217,10 @@
                         <li>
                             <a href="#about">About</a>
                         </li>
-                        <li class="footer-menu-divider">&sdot;</li>
+                        <!-- <li class="footer-menu-divider">&sdot;</li>
                         <li>
                             <a href="#projects">Featured Projects</a>
-                        </li>
+                        </li> -->
                         <li class="footer-menu-divider">&sdot;</li>
                         <li>
                             <a href="#events">Events</a>
@@ -250,8 +246,7 @@
     <script src="https://d3js.org/d3.v4.min.js"></script>
     <script type="text/javascript">
     var func = function(window, d3, $) {
-      console.log("X", d3);
-      d3.json("./data.json", function(data) {
+      d3.json("./data.json?q=2016", function(data) {
         d3.select("#projects-container").selectAll(".project-content-container")
           .data(data)
           .enter()
@@ -260,7 +255,7 @@
             .html(function(d) { 
               
               var owner = d.owner_url != "" ? `<a href='${d.owner_url}'>${d.owner}</a>` : d.owner;
-              var channel_button = d.channel && d.channel != "" ? `<a href='http://goo.gl/forms/8SJRDlo7Lx2rUsan1' 
+              var channel_button = d.channel && d.channel != "" ? `<a href='https://airtable.com/shrSnsmAIGWD1oGIL' 
                 data-toggle="tooltip" 
                 title="${d.channel}"
                 data-placement="top"

@@ -29,9 +29,9 @@
 	"project_url": "",
   "owner_url": "",
 	"slack_url": "https://progcode.slack.com/messages/brandnewcongress/",
-  "site_url": "",
+  "site_url": "https://docs.google.com/document/d/1VHF0pkyay7MHDWU4rzGDp0tWhlJLfozPQeGC48giOxo/edit?usp=sharing",
 	"owner_image": "http://i.imgur.com/F0XocFf.png",
-	"site_image": "http://i.imgur.com/myGvbfT.png",
+	"site_image": "http://i.imgur.com/0ECDZib.png",
 	"channel": "#progressive-directory",
 	"is_featured": "TRUE"
 }, {
@@ -44,7 +44,7 @@
   "site_url": "http://www.grassrootspb.com",
 	"owner_image": "http://i.imgur.com/tVxRvLf.png",
 	"site_image": "http://i.imgur.com/mMm2L0d.png",
-	"channel": "",
+	"channel": "#grassrootspb",
 	"is_featured": "TRUE"
 }, {
 	"name": "Code Corps",
@@ -57,6 +57,18 @@
 	"owner_image": "https://avatars3.githubusercontent.com/u/321667?v=3",
 	"site_image": "http://i.imgur.com/Y1QjWCH.png",
 	"channel": "#code-corps",
+	"is_featured": "TRUE"
+},  {
+	"name": "Idea: How To Vote Resource",
+	"owner": "Vibhor Kumar",
+	"description": "Keep Potential Voters (especially the young and progressive) Voters for life.",
+  "site_url": "https://docs.google.com/document/d/188EDtSUz0VIpAHD0eEfc3bIuGsqmawrgMZvlRWHRPB8/edit?usp=sharing",
+  "owner_url": "https://github.com/veezbo",
+	"project_url": "",
+	"slack_url": "https://docs.google.com/document/d/188EDtSUz0VIpAHD0eEfc3bIuGsqmawrgMZvlRWHRPB8/edit?usp=sharing",
+	"owner_image": "https://avatars3.githubusercontent.com/u/5194849?v=3",
+	"site_image": "http://i.imgur.com/vTDDO1S.png",
+	"channel": "#how-to-vote-resource",
 	"is_featured": "TRUE"
 }, {
 	"name": "Our Revolution",

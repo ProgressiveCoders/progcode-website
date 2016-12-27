@@ -13,7 +13,7 @@
     <meta property="og:title" content="Progressive Coders Network" />
     <meta property="og:description" content="Hundreds of tech volunteers created online tools for Bernie Sanders' campaign, boosting the movement by engaging millions of people to vote, volunteer, and inform themselves about the issues." />
     <meta property="og:image" content="http://www.progcode.co/img/social-media-1.png" />
-
+    <link rel="shortcut icon" href="/img/logo-only.png" />
     <title>Progressive Coders Network</title>
 
     <!-- Bootstrap Core CSS -->
@@ -58,9 +58,6 @@
                         <a href="#about">About</a>
                     </li>
                     <li>
-                        <a href="#projects">Featured Projects</a>
-                    </li>
-                    <li>
                         <a href="#events">Events</a>
                     </li>
                     <li>
@@ -88,10 +85,10 @@
                         <hr class="intro-divider">
                         <ul class="list-inline intro-social-buttons">
                           <li>
-                              <a href="http://goo.gl/forms/8SJRDlo7Lx2rUsan1" class="btn btn-default btn-lg"><img src='./img/slack.png' height="20" width="20"> <span class="network-name">Join us in Slack</span></a>
+                              <a href="https://airtable.com/shrSnsmAIGWD1oGIL" class="btn btn-default btn-lg"><img src='./img/slack.png' height="20" width="20"> <span class="network-name">Join us in Slack</span></a>
                           </li>
                           <li>
-                              <a href="https://actionnetwork.org/events/1st-progressive-coders-network-natl-hands-on-meeting" class="btn btn-default btn-lg"><i class="fa fa-calendar-o" aria-hidden="true"></i> <span class="network-name">1st Nat'l Hands-On Meeting</span></a>
+                              <a href="https://www.youtube.com/watch?v=ZNVMl19FbTE" class="btn btn-default btn-lg"><i class="fa fa-calendar-o" aria-hidden="true"></i> <span class="network-name">Watch: Progressive Tech after Brexit</span></a>
                           </li>
                         </ul>
                     </div>
@@ -122,6 +119,11 @@
               <p class="text-center">
                 <img src='./img/logo-only.png' />
               </p>
+              <h2>Watch our recent Community Meeting: <br/>Trust and Networks</h2>
+              <p style='text-align: center'>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/KZm_qaGKCHg" frameborder="0" allowfullscreen></iframe>
+              </p>
+            
             </div>
           </div>
         </div>
@@ -133,7 +135,7 @@
 	<a  name="projects"></a>
     <!-- /.content-section-b -->
 
-    <div id="projects-area" class="content-section-a">
+    <!-- div id="projects-area" class="content-section-a">
 
         <div class="container">
 
@@ -148,9 +150,8 @@
             <div class="row" id="projects-container">
             </div>
         </div>
-        <!-- /.container -->
 
-    </div>
+    </div -->
   <!-- /.content-section-a -->
   <a  name="events"></a>
       <!-- /.content-section-b -->
@@ -160,20 +161,19 @@
           <div class="container">
 
             <div class="row">
-                <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
+                <div class="col-lg-5 col-sm-push-6  col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading">1st Hands-On Meeting</h2>
-                    <h4 class="section-heading">July 22, 2016, 8PM EST</h4>
-                    <p class="lead">Join us to discuss how we can support Progressive candidates through open-source technology. Coders from <a href="http://www.codecorps.org">CodeCorps</a>, <a href="http://www.brandnewcongress.org">BrandNewCongress</a>, <a href="http://progressiveevents.org">ProgressiveEvents.org</a>, and other grassroots tech, will talk about what they are working on and how you can contribute to this growing network of volunteers.</p>
-                    <p><a href="https://actionnetwork.org/events/1st-progressive-coders-network-natl-hands-on-meeting" class="btn btn-default btn-lg"><i class="fa fa-calendar-o" aria-hidden="true"></i> <span class="network-name">RSVP</span></a></p>
+                    <h2 class="section-heading">Weekly Onboarding</h2>
+                    <h4 class="section-heading">January 2, 2017, 8:30p EST</h4>
+                    <p class="lead">Whether you're brand new to Progressive Coders Network or have been around for a while and want to learn more about the team, connect with your fellow community members, and learn how you can get involved, please stop on by. During the call we'll provide a team overview, share our goals, strategy, plan, and team functions and needs, as well as make introductions, highlight experiences, and have an open Q&A.</p>
+                    <p><a href="https://goo.gl/ALDIiv" class="btn btn-default btn-lg"><i class="fa fa-calendar-o" aria-hidden="true"></i> <span class="network-name">RSVP</span></a></p>
                 </div>
-                <div class="col-lg-5 col-sm-pull-6  col-sm-6">
-                    <img class="img-responsive" src="img/social-media-1.png" alt="">
+                <div class="col-lg-7 col-sm-pull-6  col-sm-6">
+                    <img class="img-responsive" src="http://i.imgur.com/VVeawuN.png" alt="">
                 </div>
             </div>
           </div>
-          <!-- /.container -->
 
       </div>
 
@@ -192,7 +192,7 @@
                             <a href="https://www.facebook.com/Progressive-Coders-Network-1626194004374265/" class="btn btn-default btn-lg"><i class="fa fa-facebook fa-fw"></i> <span class="network-name">Facebook</span></a>
                         </li>
                         <li>
-                            <a href="http://goo.gl/forms/8SJRDlo7Lx2rUsan1" class="btn btn-default btn-lg"><img src='./img/slack.png' height="20" width="20"> <span class="network-name">Join us in Slack</span></a>
+                            <a href="https://airtable.com/shrSnsmAIGWD1oGIL" class="btn btn-default btn-lg"><img src='./img/slack.png' height="20" width="20"> <span class="network-name">Join us in Slack</span></a>
                         </li>
                     </ul>
                 </div>
@@ -217,10 +217,10 @@
                         <li>
                             <a href="#about">About</a>
                         </li>
-                        <li class="footer-menu-divider">&sdot;</li>
+                        <!-- <li class="footer-menu-divider">&sdot;</li>
                         <li>
                             <a href="#projects">Featured Projects</a>
-                        </li>
+                        </li> -->
                         <li class="footer-menu-divider">&sdot;</li>
                         <li>
                             <a href="#events">Events</a>
@@ -246,8 +246,7 @@
     <script src="https://d3js.org/d3.v4.min.js"></script>
     <script type="text/javascript">
     var func = function(window, d3, $) {
-      console.log("X", d3);
-      d3.json("./data.json", function(data) {
+      d3.json("./data.json?q=2016", function(data) {
         d3.select("#projects-container").selectAll(".project-content-container")
           .data(data)
           .enter()
@@ -256,7 +255,7 @@
             .html(function(d) { 
               
               var owner = d.owner_url != "" ? `<a href='${d.owner_url}'>${d.owner}</a>` : d.owner;
-              var channel_button = d.channel && d.channel != "" ? `<a href='http://slack.progcode.co' 
+              var channel_button = d.channel && d.channel != "" ? `<a href='https://airtable.com/shrSnsmAIGWD1oGIL' 
                 data-toggle="tooltip" 
                 title="${d.channel}"
                 data-placement="top"

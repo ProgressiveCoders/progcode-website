@@ -165,9 +165,9 @@
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Weekly Onboarding</h2>
-                    <h4 class="section-heading">January 2, 2017, 8:30p EST</h4>
+                    <h4 class="section-heading">January 10, 2017, 8:30p EST</h4>
                     <p class="lead">Whether you're brand new to Progressive Coders Network or have been around for a while and want to learn more about the team, connect with your fellow community members, and learn how you can get involved, please stop on by. During the call we'll provide a team overview, share our goals, strategy, plan, and team functions and needs, as well as make introductions, highlight experiences, and have an open Q&A.</p>
-                    <p><a href="https://goo.gl/ALDIiv" class="btn btn-default btn-lg"><i class="fa fa-calendar-o" aria-hidden="true"></i> <span class="network-name">RSVP</span></a></p>
+                    <p><a href="https://actionnetwork.org/events/progressive-coders-on-boarding-call-9" class="btn btn-default btn-lg"><i class="fa fa-calendar-o" aria-hidden="true"></i> <span class="network-name">RSVP</span></a></p>
                 </div>
                 <div class="col-lg-7 col-sm-pull-6  col-sm-6">
                     <img class="img-responsive" src="http://i.imgur.com/VVeawuN.png" alt="">
@@ -309,6 +309,10 @@
       ga('create', 'UA-80932028-1', 'auto');
       ga('send', 'pageview');
 
+    </script>
+    <script type="text/javascript">
+        window.heap=window.heap||[],heap.load=function(e,t){window.heap.appid=e,window.heap.config=t=t||{};var r=t.forceSSL||"https:"===document.location.protocol,a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src=(r?"https:":"http:")+"//cdn.heapanalytics.com/js/heap-"+e+".js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(a,n);for(var o=function(e){return function(){heap.push([e].concat(Array.prototype.slice.call(arguments,0)))}},p=["addEventProperties","addUserProperties","clearEventProperties","identify","removeEventProperty","setEventProperties","track","unsetEventProperty"],c=0;c<p.length;c++)heap[p[c]]=o(p[c])};
+          heap.load("1643200781");
     </script>
 </body>
 

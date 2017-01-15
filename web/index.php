@@ -92,7 +92,7 @@
                               <a href="https://airtable.com/shrSnsmAIGWD1oGIL" class="btn btn-default btn-lg"><img src='./img/slack.png' height="20" width="20"> <span class="network-name">Join us in Slack</span></a>
                           </li>
                           <li>
-                              <a href="https://github.com/ProgressiveCoders/projects/projects/1" class="btn btn-default btn-lg" target="_blank"><i class="fa fa-calendar-o" aria-hidden="true"></i> <span class="network-name">View All Active Projects</span></a>
+                              <a href="https://github.com/ProgressiveCoders/projects/projects/1" class="btn btn-default btn-lg" target="_blank"><span class="network-name">View All Active Projects</span></a>
                           </li>
                         </ul>
                     </div>

@@ -85,7 +85,7 @@
                     <div class="intro-message">
                         <h4>Progressive Coders Network</h4>
                         <h1>We're building a network of tech volunteers</h1>
-                        <h3>and together we're creating open-source tools for progressive candidates</h3>
+                        <h3>and together we're creating open-source tools for the progressive movement</h3>
                         <hr class="intro-divider">
                         <ul class="list-inline intro-social-buttons">
                           <li>
@@ -117,7 +117,7 @@
               </p>
               <p class="lead">
                 We're building on that momentum and creating a sustainable network of volunteers: creating open-source tools
-                for the progressive movement; helping progressive candidates compete without needing millions of dollars in funding; enabling
+                for the progressive movement; helping progressive campaigns compete without needing millions of dollars in funding; enabling
                 them to champion a platform centered in social and economic justice without big money's influence.
               </p>
               <p class="text-center">

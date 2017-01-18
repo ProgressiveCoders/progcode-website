@@ -125,7 +125,7 @@
               </p>
               <h2>Watch our recent Community Meeting: <br/>Open Supporter Data Interface</h2>
               <p style='text-align: center'>
-                <iframe width="560" height="315" src="https://www.youtube.com/watch?v=qfk1m8ZQu7c" frameborder="0" allowfullscreen></iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/qfk1m8ZQu7c" frameborder="0" allowfullscreen></iframe>
               </p>
             
             </div>

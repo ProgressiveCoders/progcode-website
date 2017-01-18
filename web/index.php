@@ -123,9 +123,9 @@
               <p class="text-center">
                 <img src='./img/logo-only.png' />
               </p>
-              <h2>Watch our recent Community Meeting: <br/>Trust and Networks</h2>
+              <h2>Watch our recent Community Meeting: <br/>Open Supporter Data Interface</h2>
               <p style='text-align: center'>
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/KZm_qaGKCHg" frameborder="0" allowfullscreen></iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/watch?v=qfk1m8ZQu7c" frameborder="0" allowfullscreen></iframe>
               </p>
             
             </div>
@@ -169,9 +169,9 @@
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Weekly Onboarding</h2>
-                    <h4 class="section-heading">January 10, 2017, 8:30p EST</h4>
+                    <h4 class="section-heading">January 24, 2017, 8:30p EST</h4>
                     <p class="lead">Whether you're brand new to Progressive Coders Network or have been around for a while and want to learn more about the team, connect with your fellow community members, and learn how you can get involved, please stop on by. During the call we'll provide a team overview, share our goals, strategy, plan, and team functions and needs, as well as make introductions, highlight experiences, and have an open Q&A.</p>
-                    <p><a href="https://actionnetwork.org/events/progressive-coders-on-boarding-call-9" class="btn btn-default btn-lg"><i class="fa fa-calendar-o" aria-hidden="true"></i> <span class="network-name">RSVP</span></a></p>
+                    <p><a href="https://zoom.us/meeting/register/c07b1af895b269f3cde7dc3c8da9331e" class="btn btn-default btn-lg"><i class="fa fa-calendar-o" aria-hidden="true"></i> <span class="network-name">RSVP</span></a></p>
                 </div>
                 <div class="col-lg-7 col-sm-pull-6  col-sm-6">
                     <img class="img-responsive" src="http://i.imgur.com/VVeawuN.png" alt="">

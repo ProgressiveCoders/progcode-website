@@ -578,7 +578,7 @@ h3 a {
   margin-top: 10px;
   display: inline-block; }
   .btn-md.btn-blue:hover {
-    background-color: #e21065; }
+    background-color: #e21065 !important; }
 
 nav.navbar-default {
   background-color: white; }

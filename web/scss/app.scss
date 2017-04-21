@@ -62,7 +62,7 @@ h3 a { color: $black; }
   margin-top: 10px;
   display: inline-block;
   &:hover {
-    background-color: $red;
+    background-color: $red !important;
   }
 }
 nav.navbar-default {

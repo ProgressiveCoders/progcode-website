@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Hundreds of tech volunteers created online tools for Bernie Sanders' campaign, boosting the movement by engaging millions of people to vote, volunteer, and inform themselves about the issues.">
+    <meta name="description" content="Building tools to empower the grassroots. We are change makers with diverse skillsets removing the influence of money in politics by empowering the grassroots through open-source/low-cost tools.">
     <meta name="author" content="">
     <meta property="og:url" content="http://www.progcode.co" />
     <meta property="og:type" content="website" />

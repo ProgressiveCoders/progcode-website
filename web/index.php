@@ -11,7 +11,7 @@
     <meta property="og:url" content="http://www.progcode.co" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Progressive Coders Network" />
-    <meta property="og:description" content="Hundreds of tech volunteers created online tools for Bernie Sanders' campaign, boosting the movement by engaging millions of people to vote, volunteer, and inform themselves about the issues." />
+    <meta property="og:description" content="Building tools to empower the grassroots. We are change makers with diverse skillsets removing the influence of money in politics by empowering the grassroots through open-source/low-cost tools." />
     <meta property="og:image" content="http://www.progcode.co/img/social-media-1.png" />
     <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500" rel="stylesheet">
     <link rel="shortcut icon" href="/img/logo-only.png" />

@@ -142,7 +142,7 @@
                   <img src='/img/svg/congress.svg' width="125px"/>
                 </div>
                 <h3>Get Money Out of Politics</h3>
-                <p>With empowered communities, politics will be driven by the people: making the need for big-money obsolete.</p>
+                <p>With empowered communities, politics will be driven by the people. The need for big-money will be obsolete.</p>
               </div>
             </div>
           </div>

@@ -1,15 +1,28 @@
-body,
 h1,
 h2,
 h3,
+.h1,
+.h2,
+.h3
+ {
+    font-family: "Montserrat", Helvetica, Arial, sans-serif!important;
+    font-weight: 500;
+}
 h4,
 h5,
 h6,
-.h1,
-.h2,
-.h3,
 .h4,
 .h5,
 .h6 {
-    font-family: "Roboto", Helvetica, Arial, sans-serif!important;
+  font-family: "Montserrat", Helvetica, Arial, sans-serif!important;
+  font-weight: 400;
 }
+
+body {
+  font-family: "Montserrat", Helvetica, Arial, sans-serif!important;
+  font-weight: 300;
+}
+
+h2 { font-size: 26pt; }
+h4 { font-size: 14pt; }
+body { font-size: 14pt;}

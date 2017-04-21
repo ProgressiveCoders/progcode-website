@@ -13,6 +13,7 @@
     <meta property="og:title" content="Progressive Coders Network" />
     <meta property="og:description" content="Hundreds of tech volunteers created online tools for Bernie Sanders' campaign, boosting the movement by engaging millions of people to vote, volunteer, and inform themselves about the issues." />
     <meta property="og:image" content="http://www.progcode.co/img/social-media-1.png" />
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500" rel="stylesheet">
     <link rel="shortcut icon" href="/img/logo-only.png" />
     <title>Progressive Coders Network</title>
 
@@ -53,19 +54,22 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand topnav" href="#"><img src='./img/logo.png' /></a>
+                <a class="navbar-brand topnav" href="#"><img src='./img/logo-only.png' /><strong>Progressive Coders<br/>Network</strong></a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-                        <a href="#about">About</a>
+                        <a href="#about">Home</a>
                     </li>
                     <li>
-                        <a href="#events">Events</a>
+                        <a href="#projects">Projects</a>
                     </li>
                     <li>
-                        <a href="#contact">Contact</a>
+                        <a href="//toolkit.progcode.org">Toolkit</a>
+                    </li>
+                    <li>
+                        <a href="//proco.de/join" class="btn btn-default btn-md btn-blue">Join Us</a>
                     </li>
                 </ul>
             </div>
@@ -77,25 +81,27 @@
 
     <!-- Header -->
     <a name="about"></a>
-    <div class="intro-header">
+    <div class="intro-header" id="the-purpose">
         <div class="container">
 
             <div class="row">
-                <div class="col-lg-12">
-                    <div class="intro-message">
-                        <h4>Progressive Coders Network</h4>
-                        <h1>We're building a network of tech volunteers</h1>
-                        <h3>and together we're creating open-source tools for the progressive movement</h3>
-                        <hr class="intro-divider">
+                <div class="col-md-6">
+                    <div class="intro-message text-left">
+                        <h4>PURPOSE</h4>
+                        <h2>Building tools to empower<br/>the grassroots</h2>
+                        <p>We are change makers with diverse skillsets removing the<br/><strike>influence of money in politics</strike>
+                           by empowering the grassroots through open-source/low-cost tools. </p>
                         <ul class="list-inline intro-social-buttons">
                           <li>
-                              <a href="https://airtable.com/shraBEItZa0sYiMB0" class="btn btn-default btn-lg"><img src='./img/slack.png' height="20" width="20"> <span class="network-name">Join us in Slack</span></a>
-                          </li>
-                          <li>
-                              <a href="https://github.com/ProgressiveCoders/projects/projects/1" class="btn btn-default btn-lg" target="_blank"><span class="network-name">View All Active Projects</span></a>
+                              <a href="//progco.de/join" class="btn btn-default btn-lg">
+                                <span class="network-name">Join us in Slack</span>
+                              </a>
                           </li>
                         </ul>
                     </div>
+                </div>
+                <div class="col-md-6 text-right">
+                  <img src="img/svg/congress.svg" width="80%" />
                 </div>
             </div>
 
@@ -103,109 +109,105 @@
         <!-- /.container -->
 
     </div>
-    <div class="content-section-b">
+
+    <div id="the-plan">
         <div class="container">
           <div class="row">
-            <div class="col-lg-2"></div>
-            <div class="col-lg-8">
-              <hr class="section-heading-spacer">
-              <div class="clearfix"></div>
-              <h2 class="section-heading">Volunteer coders behind Bernie Sanders' 2016 campaign cemented the role of volunteer tech in politics</h2>
-              <p class="lead"> 
-                Hundreds of coders created online tools for his campaign, boosting the movement 
-                by engaging millions of people to vote, volunteer, and inform themselves about the issues. 
-              </p>
-              <p class="lead">
-                We're building on that momentum and creating a sustainable network of volunteers: creating open-source tools
-                for the progressive movement; helping progressive campaigns compete without needing millions of dollars in funding; enabling
-                them to champion a platform centered in social and economic justice without big money's influence.
-              </p>
-              <p class="text-center">
-                <img src='./img/logo-only.png' />
-              </p>
-              <h2>Watch our recent Community Meeting: <br/>Open Supporter Data Interface</h2>
-              <p style='text-align: center'>
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/qfk1m8ZQu7c" frameborder="0" allowfullscreen></iframe>
-              </p>
-            
+            <div class="col-md-6">
+              <h4>THE PLAN</h4>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-4">
+              <div class='plan-item text-center'>
+                <div class='img-container'>
+                  <img src='/img/svg/opensource.svg' width="126px" style="margin-top: 20px;"/>
+                </div>
+                <h3>Build Open Source/<br/>Low Cost Tools</h3>
+                <p>Collaborating with application partners to develop highly integrated, no-to-low cost solutions.</p>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class='plan-item text-center' >
+                <div class='img-container'>
+                  <img src='/img/svg/grassroots.svg' width="115px"/>
+                </div>
+                <h3>Empower Grassroots Groups</h3>
+                <p>Community driven organization developing the tools for independent movements.</p>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class='plan-item text-center'>
+                <div class='img-container'>
+                  <img src='/img/svg/congress.svg' width="125px"/>
+                </div>
+                <h3>Get Money Out of Politics</h3>
+                <p>With empowered communities, politics will be driven by the people: making the need for big-money obsolete.</p>
+              </div>
             </div>
           </div>
         </div>
     </div>
     <!-- /.intro-header -->
 
+
     <!-- Page Content -->
 
 	<a  name="projects"></a>
-    <!-- /.content-section-b -->
+    <!-- /.` -->
 
-    <!-- div id="projects-area" class="content-section-a">
+    <div id="projects-area" class="content-section-a">
 
         <div class="container">
 
             <div class="row">
-                <div class="col-lg-8 col-sm-6">
-                    <hr class="section-heading-spacer">
-                    <div class="clearfix"></div>
+                <div class="col-lg-12 text-center">
                     <h2 class="section-heading">Featured Projects</h2>
-                    <p class="lead">This summer, we focus on the foundations of progressive tech. We need to make it easy for people to participate in progressive politics, find ways to make volunteer tech projects sustainable, and support a Brand&nbsp;New&nbsp;Congress.</p>
+                    <p class="lead">Currently supported within ProgCode</p>
                 </div>
             </div>
             <div class="row" id="projects-container">
             </div>
-        </div>
-
-    </div -->
-  <!-- /.content-section-a -->
-  <a  name="events"></a>
-      <!-- /.content-section-b -->
-
-      <div id="events-area" class="content-section-b">
-
-          <div class="container">
-
             <div class="row">
-                <div class="col-lg-5 col-sm-push-6  col-sm-6">
-                    <hr class="section-heading-spacer">
-                    <div class="clearfix"></div>
-                    <h2 class="section-heading">Weekly Onboarding</h2>
-                    <h4 class="section-heading">January 24, 2017, 8:30p EST</h4>
-                    <p class="lead">Whether you're brand new to Progressive Coders Network or have been around for a while and want to learn more about the team, connect with your fellow community members, and learn how you can get involved, please stop on by. During the call we'll provide a team overview, share our goals, strategy, plan, and team functions and needs, as well as make introductions, highlight experiences, and have an open Q&A.</p>
-                    <p><a href="https://calendly.com/rapi/progressive-coders-onboarding" class="btn btn-default btn-lg"><i class="fa fa-calendar-o" aria-hidden="true"></i> <span class="network-name">RSVP</span></a></p>
-                </div>
-                <div class="col-lg-7 col-sm-pull-6  col-sm-6">
-                    <img class="img-responsive" src="http://i.imgur.com/VVeawuN.png" alt="">
-                </div>
+              <div class='col-lg-12 text-center'>
+                <h3><a href='//progco.de/projects'>More Projects &rarr;</a></h3>
+              </div>
             </div>
-          </div>
-
-      </div>
-
-	<a  name="contact"></a>
-    <div class="banner">
-
-        <div class="container">
-
-            <div class="row">
-                <div class="col-lg-6">
-                    <h2>Connect with ProgCode:</h2>
-                </div>
-                <div class="col-lg-6">
-                    <ul class="list-inline banner-social-buttons">
-                        <li>
-                            <a href="https://www.facebook.com/Progressive-Coders-Network-1626194004374265/" class="btn btn-default btn-lg"><i class="fa fa-facebook fa-fw"></i> <span class="network-name">Facebook</span></a>
-                        </li>
-                        <li>
-                            <a href="https://airtable.com/shraBEItZa0sYiMB0" class="btn btn-default btn-lg"><img src='./img/slack.png' height="20" width="20"> <span class="network-name">Join us in Slack</span></a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-
         </div>
-        <!-- /.container -->
 
     </div>
+
+    <div id="get-started">
+        <div class="container">
+          <div class="row">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Get Started</h2>
+                </div>
+            </div>
+            <div class="row">
+              <div class='col-lg-3'></div>
+              <div class='col-lg-6 col-sm-12 text-center'>
+                  <p class="lead">The toolkit provides you everything you need to leverage ProgCode, empower the grassroots, and remove the influence of money in politics</p>
+                  <p>
+                    <a href="//toolkit.progcode.org" target="_blank">
+                      <img src='/img/screenshot.png' width="400px"/>
+                    </a>
+                    <br/>
+                  </p>
+                  <div style="margin-top: 30px;">
+                    <a href="//toolkit.progcode.org" target="_blank" class="btn btn-default btn-lg">
+                      <span class="network-name">Explore the Toolkit</span>
+                    </a>
+                  </div>
+              </div>
+            </div>
+          </div>
+        </div>
+    </div>
+
+	<a  name="contact"></a>
+
     <!-- /.banner -->
 
     <!-- Footer -->
@@ -214,25 +216,6 @@
             <div class="row">
                 <div class="col-lg-12">
                     <ul class="list-inline">
-                        <li>
-                            <a href="#">Home</a>
-                        </li>
-                        <li class="footer-menu-divider">&sdot;</li>
-                        <li>
-                            <a href="#about">About</a>
-                        </li>
-                        <!-- <li class="footer-menu-divider">&sdot;</li>
-                        <li>
-                            <a href="#projects">Featured Projects</a>
-                        </li> -->
-                        <li class="footer-menu-divider">&sdot;</li>
-                        <li>
-                            <a href="#events">Events</a>
-                        </li>
-                        <li class="footer-menu-divider">&sdot;</li>
-                        <li>
-                            <a href="#contact">Contact</a>
-                        </li>
                     </ul>
                     <p class="copyright text-muted small">Copyright &copy; Progressive Coders Network 2016. All Rights Reserved. Theme by <a href='http://startbootstrap.com/' target='_blank'>Start Bootstrap</a></p>
                 </div>
@@ -256,53 +239,26 @@
           .enter()
           .append("div")
             .attr("class", "project-content-container col-lg-4 col-sm-6")
-            .html(function(d) { 
-              
-              var owner = d.owner_url != "" ? `<a href='${d.owner_url}'>${d.owner}</a>` : d.owner;
-              var channel_button = d.channel && d.channel != "" ? `<a href='https://airtable.com/shraBEItZa0sYiMB0' 
-                data-toggle="tooltip" 
-                title="${d.channel}"
-                data-placement="top"
-                class='proj-links'><img src='./img/slack.png' height='20' width='20'></a>` : "";
-                
-              var project_button = d.project_url && d.project_url != "" ? `
-                <a href='${d.project_url}' 
-                  data-toggle="tooltip" 
-                  title="Contribute"
-                  data-placement="top"
-                  class='proj-links'><i class='fa fa-github fa-fw' aria-hidden='true'></i></a>
-              ` : "";
-              return `
-            <div class='project-item'>
-              <div class='project-image' style='background-image: url(${d.site_image})'>
-                <div class='spiel'>
-                  <hr class='section-heading-spacer'>
-                  <div class='clearfix'></div>
-                  <p>${d.description}</p>
-                </div>
-              </div>
-              <div class='project-details'>
-                <div>
-                  <span class='owner-image' style='background-image: url(${d.owner_image})'></span>
-                  <h4><a href='${d.site_url}'>${d.name}</a></h4>
-                  <h5>${owner}</h5>
-                </div>
-                <div class='clearfix'></div>
-                <div class='links-area'>
-                  ${channel_button}&nbsp;${project_button}
-                </div>
-              </div>
-            </div>
-            `});
-            
+            .html(function(d) {
+
+              var owner = d.owner_url != "" ? "<a href='" + d.owner_url + "'>" + d.owner + "</a>" : d.owner;
+              var channel_button = d.channel && d.channel != "" ? "<a href='//progco.de/join'\n                data-toggle=\"tooltip\"\n                title=\"" + d.channel + "\"\n                data-placement=\"top\"\n                class='proj-links'><img src='./img/slack.png' height='20' width='20'></a>" : "";
+
+              var project_button = d.project_url && d.project_url != "" ? "\n                <a href='" + d.project_url + "'\n                  data-toggle=\"tooltip\"\n                  title=\"Contribute\"\n                  data-placement=\"top\"\n                  class='proj-links'><i class='fa fa-github fa-fw' aria-hidden='true'></i></a>\n              " : "";
+              var ret = "\n            <div class='project-item'>\n              <div class='project-image' style='background-image: url(" + d.site_image + ")'>\n                <div class=''>\n                  \n                  <div class='clearfix'></div>\n                </div>\n              </div>\n              <div class='project-details'>\n                <div>\n                  <span class='owner-image' style='background-image: url(" + d.owner_image + ")'></span>\n                  <h4><a href='" + d.site_url + "'>" + d.name + "</a></h4>\n                  <h5>" + d.description + "</h5>\n                </div>\n                <div class='clearfix'></div>\n                <div class='links-area'>\n                  " + channel_button + "&nbsp;" + project_button + "\n                </div>\n              </div>\n            </div>\n            "
+              ;
+
+              return ret;
+            });
+
         $(function () {
           $('[data-toggle="tooltip"]').tooltip()
         })
       });
-      
+
     }(window, d3, jQuery);
-    
-    
+
+
     </script>
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

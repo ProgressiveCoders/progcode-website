@@ -69,7 +69,7 @@
                         <a href="//toolkit.progcode.org">Toolkit</a>
                     </li>
                     <li>
-                        <a href="//proco.de/join" class="btn btn-default btn-md btn-blue">Join Us</a>
+                        <a href="http://progco.de/join" class="btn btn-default btn-md btn-blue">Join Us</a>
                     </li>
                 </ul>
             </div>

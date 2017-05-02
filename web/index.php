@@ -89,7 +89,7 @@
                     <div class="intro-message text-left">
                         <h4>PURPOSE</h4>
                         <h2>Building tools to empower<br/>the grassroots</h2>
-                        <p>We are change makers with diverse skillsets removing the<br/><strike>influence of money in politics</strike>
+                        <p>We are change makers with diverse skillsets removing the<br/>influence of money in politics
                            by empowering the grassroots through open-source/low-cost tools. </p>
                         <ul class="list-inline intro-social-buttons">
                           <li>
@@ -217,7 +217,7 @@
                 <div class="col-lg-12">
                     <ul class="list-inline">
                     </ul>
-                    <p class="copyright text-muted small">Copyright &copy; Progressive Coders Network 2016. All Rights Reserved. Theme by <a href='http://startbootstrap.com/' target='_blank'>Start Bootstrap</a></p>
+                    <p class="copyright text-muted small">Copyright &copy; Progressive Coders Network 2017. All Rights Reserved. Theme by <a href='http://startbootstrap.com/' target='_blank'>Start Bootstrap</a></p>
                 </div>
             </div>
         </div>

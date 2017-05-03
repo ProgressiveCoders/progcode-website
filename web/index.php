@@ -203,6 +203,21 @@
               </div>
             </div>
           </div>
+          <div class='row'>
+            <div class="col-lg-12 text-center">&nbsp;</div>
+          </div>
+          <div class='row'>
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Upcoming Events</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <iframe class="airtable-embed" src="https://airtable.com/embed/shrFyckaO66toNH3U?backgroundColor=cyan&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+                </div>
+            </div>
+          </div>
         </div>
     </div>
 
@@ -217,7 +232,7 @@
                 <div class="col-lg-12">
                     <ul class="list-inline">
                     </ul>
-                    <p class="copyright text-muted small">Copyright &copy; Progressive Coders Network 2017. All Rights Reserved. Theme by <a href='http://startbootstrap.com/' target='_blank'>Start Bootstrap</a></p>
+                    <p class="copyright text-muted small">Copyright &copy; Progressive Coders Network 20. All Rights Reserved. Theme by <a href='http://startbootstrap.com/' target='_blank'>Start Bootstrap</a></p>
                 </div>
             </div>
         </div>

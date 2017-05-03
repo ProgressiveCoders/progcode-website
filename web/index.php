@@ -232,7 +232,7 @@
                 <div class="col-lg-12">
                     <ul class="list-inline">
                     </ul>
-                    <p class="copyright text-muted small">Copyright &copy; Progressive Coders Network 20. All Rights Reserved. Theme by <a href='http://startbootstrap.com/' target='_blank'>Start Bootstrap</a></p>
+                    <p class="copyright text-muted small">Copyright &copy; Progressive Coders Network 2017. All Rights Reserved. Theme by <a href='http://startbootstrap.com/' target='_blank'>Start Bootstrap</a></p>
                 </div>
             </div>
         </div>

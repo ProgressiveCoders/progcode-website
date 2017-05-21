@@ -63,14 +63,14 @@
 	"channel": "#code-corps",
 	"is_featured": "TRUE"
 },  {
-	"name": "Resistance Calendar",
+	"name": "Maps for Change",
 	"owner": "",
-	"description": "The Resistance Calendar is a crowdsourced central listing of upcoming events for progressive activists.",
-  "site_url": "http://www.resistancecalendar.org",
-	"project_url": "https://github.com/ResistanceCalendar",
-	"site_image": "/img/projects/resistance-calendar.png",
+	"description": "Map for presenting data from events-etl and OSDI",
+  "site_url": "https://github.com/Maps-for-Change",
+	"project_url": "https://github.com/Maps-for-Change",
+	"site_image": "https://avatars3.githubusercontent.com/u/26628693",
 	"is_featured": "TRUE",
-	"channel": "#resistance-calendar"
+	"channel": "#maps-for-change"
 }, {
 	"name": "Movement",
 	"owner": "Josh Smith",

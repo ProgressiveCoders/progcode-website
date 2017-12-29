@@ -71,6 +71,9 @@
                     <li>
                         <a href="http://progco.de/join" class="btn btn-default btn-md btn-blue">Join Us</a>
                     </li>
+                    <li>
+                        <a href="https://www.patreon.com/ProgressiveCodersNetwork" class="btn btn-default btn-md btn-blue" style="margin-left:10px">Donate</a>
+                    </li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
@@ -95,6 +98,11 @@
                           <li>
                               <a href="//progco.de/join" class="btn btn-default btn-lg">
                                 <span class="network-name">Join us in Slack</span>
+                              </a>
+                          </li>
+                          <li>
+                              <a href="https://www.patreon.com/ProgressiveCodersNetwork" class="btn btn-default btn-lg">
+                                <span class="network-name">Donate on Patreon</span>
                               </a>
                           </li>
                         </ul>

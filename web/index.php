@@ -290,7 +290,9 @@
       })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
       ga('create', 'UA-80932028-1', 'auto');
+      ga('create', 'UA-112009383-1', 'auto', {"name": "Property2"});
       ga('send', 'pageview');
+      ga('Property2.send', 'pageview');
 
     </script>
 </body>

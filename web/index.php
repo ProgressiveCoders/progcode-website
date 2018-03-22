@@ -222,7 +222,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <iframe class="airtable-embed" src="https://airtable.com/embed/shrFyckaO66toNH3U?backgroundColor=cyan&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+                    <iframe class="airtable-embed" src="https://airtable.com/embed/shrIBemEGOX7y0V5p?backgroundColor=cyan" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
                 </div>
             </div>
           </div>

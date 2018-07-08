@@ -216,13 +216,19 @@
           </div>
           <div class='row'>
             <div class="row">
-                <div class="col-lg-12 text-center">
+                <div class="col-lg-9 text-center">
                     <h2 class="section-heading">Upcoming Events</h2>
+                </div>
+                <div class="col-lg-3 text-center">
+                    <h2 class="section-heading">Tweets</h2>
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-12 text-center">
+                <div class="col-lg-9 text-center">
                     <iframe class="airtable-embed" src="https://airtable.com/embed/shrIBemEGOX7y0V5p?backgroundColor=cyan" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+                </div>
+                <div class="col-lg-3">
+                    <a class="twitter-timeline" data-width="300" data-height="500" href="https://twitter.com/prog_code?ref_src=twsrc%5Etfw">Tweets by prog_code</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
                 </div>
             </div>
           </div>

@@ -88,28 +88,32 @@
         <div class="container">
 
             <div class="row">
-                <div class="col-md-6">
+                <div class="col-md-7">
                     <div class="intro-message text-left">
                         <h4>PURPOSE</h4>
-                        <h2>Building tools to empower<br/>the grassroots</h2>
-                        <p>We are change makers with diverse skillsets removing the<br/>influence of money in politics
-                           by empowering the grassroots through open-source/low-cost tools. </p>
+                        <h2>Building tools to empower the grassroots</h2>
+                        <div class="row">&nbsp;</div>
+                            <p>We are change makers with diverse skillsets removing the<br/>influence of money in politics
+                            by empowering the grassroots through open-source/low-cost tools. </p>
+                        <div class="row">&nbsp;</div>
                         <ul class="list-inline intro-social-buttons">
                           <li>
-                              <a href="//progco.de/join" class="btn btn-default btn-lg">
-                                <span class="network-name">Join us in Slack</span>
+                              <a href="//progco.de/join" class="btn btn-default btn-lg" target="_blank">
+                                <span class="network-name" style="font-weight: bold;">Join us in Slack</span>
                               </a>
                           </li>
                           <li>
-                              <a href="https://www.patreon.com/ProgressiveCodersNetwork" class="btn btn-default btn-lg">
-                                <span class="network-name">Donate on Patreon</span>
+                              <a href="https://www.patreon.com/ProgressiveCodersNetwork" target="_blank" class="btn btn-default btn-lg">
+                                <span class="network-name" style="font-weight: bold;">Donate on Patreon</span>
                               </a>
                           </li>
                         </ul>
                     </div>
                 </div>
-                <div class="col-md-6 text-right">
-                  <img src="img/svg/congress.svg" width="80%" />
+                <div class="col-md-5">
+                    <div class="intro-message text-right">
+                    <img src="img/svg/congress.svg" width="80%" />
+                    </div>
                 </div>
             </div>
 
@@ -216,21 +220,14 @@
           </div>
           <div class='row'>
             <div class="row">
-                <div class="col-lg-9 text-center">
+                <div class="col-md-9 sm-12 text-center">
                     <h2 class="section-heading">Upcoming Events</h2>
-                </div>
-                <div class="col-lg-3 text-center">
-                    <h2 class="section-heading">Tweets</h2>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-9 text-center">
                     <iframe class="airtable-embed" src="https://airtable.com/embed/shrIBemEGOX7y0V5p?backgroundColor=cyan" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
                 </div>
-                <div class="col-lg-3">
-                    <a class="twitter-timeline" data-width="300" data-height="500" href="https://twitter.com/prog_code?ref_src=twsrc%5Etfw">Tweets by prog_code</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                <div class="col-md-3 sm-12 text-center">
+                    <h2 class="section-heading">Tweets</h2>
+                    <a class="twitter-timeline" data-width="300" data-height="533" href="https://twitter.com/prog_code?ref_src=twsrc%5Etfw">Tweets by prog_code</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
                 </div>
-            </div>
           </div>
         </div>
     </div>

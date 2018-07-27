@@ -1,4 +1,4 @@
-@import "https://fonts.googleapis.com/css?family=Roboto:300,400,700,900";
+@import 'https://fonts.googleapis.com/css?family=Roboto:300,400,700,900';
 /*! normalize.css v4.1.1 | MIT License | github.com/necolas/normalize.css */
 /**
  * 1. Change the default font family in all browsers (opinionated).
@@ -423,20 +423,17 @@ h6 {
 @media (max-width: 767px) {
   .intro-message {
     padding-bottom: 15%; }
-
   .intro-message > h1 {
     font-size: 3em; }
-
   ul.intro-social-buttons > li {
     display: block;
     margin-bottom: 20px;
     padding: 0; }
-
   ul.intro-social-buttons > li:last-child {
     margin-bottom: 0; }
-
   .intro-divider {
     width: 100%; } }
+
 .network-name {
   font-size: 15px;
   font-weight: 400; }
@@ -476,22 +473,23 @@ h6 {
 @media (min-width: 1200px) {
   .container {
     width: 1170px; } }
+
 @media (max-width: 1199px) {
   ul.banner-social-buttons {
     float: left;
     margin-top: 15px; } }
+
 @media (max-width: 767px) {
   .banner h2 {
     margin: 0;
     font-size: 3em; }
-
   ul.banner-social-buttons > li {
     display: block;
     margin-bottom: 20px;
     padding: 0; }
-
   ul.banner-social-buttons > li:last-child {
     margin-bottom: 0; } }
+
 footer {
   padding: 50px 0;
   background-color: #f8f8f8; }
@@ -540,6 +538,7 @@ body {
 
 .navbar-brand > img {
   display: inline-block; }
+
 .navbar-brand > strong {
   font-color: black;
   font-weight: bold;
@@ -569,6 +568,9 @@ h3 a {
   #get-started .btn-lg {
     background: #0096fb; }
 
+#media {
+  background: #eeeee0; }
+
 .btn-md.btn-blue {
   background-color: #0096fb;
   color: white !important;
@@ -595,6 +597,7 @@ nav a {
 
 div#projects-area .project-content-container:hover .project-item .project-image .spiel {
   opacity: 1; }
+
 div#projects-area .project-content-container .project-item {
   height: 300px;
   border-radius: 4px;
@@ -654,4 +657,6 @@ div#projects-area .project-content-container .project-item {
   .text-right {
     text-align: center; } }
 
-/*# sourceMappingURL=app.css.map */
+@media (max-width: 767px) {
+  .margin-10-left {
+    margin-left: 10px; } }

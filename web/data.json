@@ -1,13 +1,12 @@
 [
 	{
 		"name": "National Voter File",
-		"description": "We provide an easy-to-use, modern-era database with voter files for each of the fifty states. This is the start of a pulling politics into the 21st century, starting from the ground up.",
+		"description": "Challenges voter data monopolies by providing an easy-to-use, modern crowdsourced database of voter files.",
 	  "site_url": "http://www.ourrevolution.com",
 		"project_url": "https://github.com/national-voter-file",
 		"slack_url": "http://www.nationalvoterfile.org",
 		"channel": "#national-voter-file",
 		"site_image": "/img/projects/nvf.png",
-		"channel": "",
 		"is_featured": "TRUE"
 	},
 	{
@@ -32,27 +31,6 @@
 	"channel": "#carpool-action",
 	"is_featured": "TRUE"
 }, {
-	"name": "Phone Your Rep",
-	"owner": "",
-	"description": "PhoneYourRep will allow a user to use location data to identify all their representatives and download contact info with one click or QR code.",
-	"project_url": "https://github.com/phoneyourrep",
-  "owner_url": "",
-	"slack_url": "",
-  "site_url": "http://phoneyourrep.com",
-	"owner_image": "",
-	"site_image": "/img/projects/phoneyourrep.jpg",
-	"channel": "#phone-your-rep",
-	"is_featured": "TRUE"
-}, {
-	"name": "AlwaysForwardUS",
-	"description": "Government should work for the 99%, not just the wealthy & privileged. We accomplish that by building a reflective democracy, one that includes everyone and where all voices are heard.",
-	"slack_url": "",
-  "site_url": "http://alwaysforwardus.com/",
-	"owner_image": "/img/projects/alwaysforward.png",
-	"site_image": "/img/projects/alwaysforward.png",
-	"channel": "#alwaysforward",
-	"is_featured": "TRUE"
-}, {
 	"name": "Code Corps",
 	"owner": "Josh Smith",
 	"description": "Building a better future together. Work on open source for social good.",
@@ -71,30 +49,4 @@
 	"site_image": "https://avatars3.githubusercontent.com/u/26628693",
 	"is_featured": "TRUE",
 	"channel": "#maps-for-change"
-}, {
-	"name": "Movement",
-	"owner": "Josh Smith",
-	"description": "We help campaigns organize volunteers without paying for software or hiring staff. Volunteers can match to candidates, learn to canvass, and find doors to knock on.",
-  "site_url": "http://www.getmovement.org",
-	"project_url": "https://github.com/getmovement",
-	"owner_url": "https://github.com/rapicastillo",
-	"slack_url": "http://slack.progcode.org",
-  "owner_url": "https://github.com/JoshSmith",
-	"owner_image": "https://avatars3.githubusercontent.com/u/321667",
-	"site_image": "http://i.imgur.com/8XIUBIf.png",
-	"channel": "#movement",
-	"is_featured": "TRUE"
-},
-{
-	"name": "ProgCode Core",
-	"owner": "Rapi Castillo",
-	"description": "We are building a team to make ProgCode a strong and sustainable network.",
-  "site_url": "http://www.progcode.co",
-  "owner_url": "https://github.com/rapicastillo",
-	"project_url": "https://github.com/ProgressiveCoders",
-	"slack_url": "http://slack.codecorp.org",
-	"owner_image": "https://avatars0.githubusercontent.com/u/399692?v=3",
-	"site_image": "http://i.imgur.com/nIYVrHd.png",
-	"channel": "#operations",
-	"is_featured": "TRUE"
 }]

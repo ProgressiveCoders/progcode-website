@@ -53,6 +53,10 @@ h3 a { color: $black; }
   }
 }
 
+#media {
+  background: $ivory;
+}
+
 .btn-md.btn-blue {
   background-color: $blue;
   color: white !important;
@@ -159,4 +163,8 @@ div#projects-area {
 
 @media(max-width: 720px) {
   .text-right { text-align: center; }
+}
+
+@media(max-width: 767px) {
+  .margin-10-left { margin-left: 10px; }
 }

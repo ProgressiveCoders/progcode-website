@@ -69,10 +69,13 @@
                         <a href="//toolkit.progcode.org">Toolkit</a>
                     </li>
                     <li>
-                        <a href="http://progco.de/join" class="btn btn-default btn-md btn-blue">Join Us</a>
+                        <a href="http://progco.de/join" target="_blank" class="btn btn-default btn-md btn-blue margin-10-left">Join Us</a>
                     </li>
                     <li>
-                        <a href="https://www.patreon.com/ProgressiveCodersNetwork" class="btn btn-default btn-md btn-blue" style="margin-left:10px">Donate</a>
+                        <a href="https://www.patreon.com/ProgressiveCodersNetwork" target="_blank" class="btn btn-default btn-md btn-blue" style="margin-left:10px">Patreon</a>
+                    </li>
+                    <li>
+                        <a href="https://www.crowdpac.com/campaigns/380083/progressive-coders-network-is-democratizing-democracy" target="_blank" class="btn btn-default btn-md btn-blue" style="margin-left:10px">CrowdPac</a>
                     </li>
                 </ul>
             </div>
@@ -90,21 +93,26 @@
             <div class="row">
                 <div class="col-md-7">
                     <div class="intro-message text-left">
-                        <h4>PURPOSE</h4>
-                        <h2>Building tools to empower the grassroots</h2>
+                        <h4>WHO WE ARE</h4>
+                        <h2>We are the change makers</h2>
                         <div class="row">&nbsp;</div>
-                            <p>We are change makers with diverse skillsets removing the<br/>influence of money in politics
-                            by empowering the grassroots through open-source/low-cost tools. </p>
+                            <p style="font-size: 16pt;">Progressive Coders Network is a 501(c)(4) non-partisan progressive community of tech and non-tech activists 
+                            building open-source tools to empower the grassroots and reduce the influence of big money in politics.</p>
                         <div class="row">&nbsp;</div>
                         <ul class="list-inline intro-social-buttons">
                           <li>
                               <a href="//progco.de/join" class="btn btn-default btn-lg" target="_blank">
-                                <span class="network-name" style="font-weight: bold;">Join us in Slack</span>
+                                <span class="network-name" style="font-weight: bold;">Join Us in Slack</span>
                               </a>
                           </li>
                           <li>
                               <a href="https://www.patreon.com/ProgressiveCodersNetwork" target="_blank" class="btn btn-default btn-lg">
                                 <span class="network-name" style="font-weight: bold;">Donate on Patreon</span>
+                              </a>
+                          </li>
+                          <li>
+                              <a href="https://www.crowdpac.com/campaigns/380083/progressive-coders-network-is-democratizing-democracy" target="_blank" class="btn btn-default btn-lg">
+                                <span class="network-name" style="font-weight: bold;">Donate on CrowdPac</span>
                               </a>
                           </li>
                         </ul>
@@ -126,7 +134,7 @@
         <div class="container">
           <div class="row">
             <div class="col-md-6">
-              <h4>THE PLAN</h4>
+              <h4>OUR MISSION</h4>
             </div>
           </div>
           <div class="row">
@@ -136,7 +144,7 @@
                   <img src='/img/svg/opensource.svg' width="126px" style="margin-top: 20px;"/>
                 </div>
                 <h3>Build Open Source/<br/>Low Cost Tools</h3>
-                <p>Collaborating with application partners to develop highly integrated, no-to-low cost solutions.</p>
+                <p>Members collaborate to develop highly integrated, no-to-low cost solutions.</p>
               </div>
             </div>
             <div class="col-md-4">
@@ -144,8 +152,8 @@
                 <div class='img-container'>
                   <img src='/img/svg/grassroots.svg' width="115px"/>
                 </div>
-                <h3>Empower Grassroots Groups</h3>
-                <p>Community driven organization developing the tools for independent movements.</p>
+                <h3>Empower the Grassroots</h3>
+                <p>Technicians and tech-support teams build high-quality tools that level the playing field for grassroots movements.</p>
               </div>
             </div>
             <div class="col-md-4">
@@ -154,7 +162,7 @@
                   <img src='/img/svg/congress.svg' width="125px"/>
                 </div>
                 <h3>Get Money Out of Politics</h3>
-                <p>With empowered communities, politics will be driven by the people. The need for big-money will be obsolete.</p>
+                <p>People-driven movements strengthen communities, reducing the influence of big-money in politics.</p>
               </div>
             </div>
           </div>
@@ -182,7 +190,7 @@
             </div>
             <div class="row">
               <div class='col-lg-12 text-center'>
-                <h3><a href='//progco.de/projects'>More Projects &rarr;</a></h3>
+                <h3><a target="_blank" href='//progco.de/projects'>More Projects &rarr;</a></h3>
               </div>
             </div>
         </div>
@@ -193,41 +201,79 @@
         <div class="container">
           <div class="row">
             <div class="row">
-                <div class="col-lg-12 text-center">
+                <div class="col-md-5 sm-12 text-center">
                     <h2 class="section-heading">Get Started</h2>
+                    <p class="lead">The toolkit provides you everything you need to leverage ProgCode, empower the grassroots, and remove the influence of money in politics</p>
+                    <p>
+                        <a href="//toolkit.progcode.org" target="_blank">
+                        <img src='/img/screenshot.png' width="400px"/>
+                        </a>
+                        <br/>
+                    </p>
+                    <div style="margin-top: 30px;">
+                        <a href="//toolkit.progcode.org" target="_blank" class="btn btn-default btn-lg">
+                        <span class="network-name">Explore the Toolkit</span>
+                        </a>
+                    </div>
                 </div>
-            </div>
-            <div class="row">
-              <div class='col-lg-3'></div>
-              <div class='col-lg-6 col-sm-12 text-center'>
-                  <p class="lead">The toolkit provides you everything you need to leverage ProgCode, empower the grassroots, and remove the influence of money in politics</p>
-                  <p>
-                    <a href="//toolkit.progcode.org" target="_blank">
-                      <img src='/img/screenshot.png' width="400px"/>
-                    </a>
-                    <br/>
-                  </p>
-                  <div style="margin-top: 30px;">
-                    <a href="//toolkit.progcode.org" target="_blank" class="btn btn-default btn-lg">
-                      <span class="network-name">Explore the Toolkit</span>
-                    </a>
-                  </div>
-              </div>
+                <div class="col-md-7 sm-12 text-center">
+                    <h2 class="section-heading">Upcoming Events</h2>
+                    <iframe class="airtable-embed" src="https://airtable.com/embed/shrIBemEGOX7y0V5p?backgroundColor=cyan" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+                </div>
             </div>
           </div>
           <div class='row'>
             <div class="col-lg-12 text-center">&nbsp;</div>
           </div>
+        </div>
+    </div>
+    <div id="media">
+        <div class="container">
           <div class='row'>
             <div class="row">
-                <div class="col-md-9 sm-12 text-center">
-                    <h2 class="section-heading">Upcoming Events</h2>
-                    <iframe class="airtable-embed" src="https://airtable.com/embed/shrIBemEGOX7y0V5p?backgroundColor=cyan" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
-                </div>
                 <div class="col-md-3 sm-12 text-center">
+                    <h2 class="section-heading">Medium Blog</h2>
+                    <blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://medium.com/progressive-coders-network">The Progressive Coder - Medium</a></h4><p>We encourage everyone to share innovative ideas which inspire a means to achieve racial, social, environmental and economic justice. Join our radically inclusive network of skilled tech and non-tech volunteers engaged in non-partisan tech activism for progressive change.</p></blockquote>
+                    <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+                </div>
+                <div class="col-md-5 sm-12">
+                    <h2 class="section-heading text-center">ProgCode in the News</h2>
+                    <div style="max-height:533px; overflow-y:auto;">
+                        <p>
+                            <a target="_blank" href="https://www.codenewbie.org/podcast/progressive-coders-network">Saron Yitbarek for CodeNewbie Podcast, Ep. 128 - Progressive Coders Network</a> 
+                        </p>
+                        <p>
+                            <a target="_blank" href="https://www.wired.com/story/momentum-british-labour-bernie-sanders/">Hazel Sheffield for Backchannel, "The Future of Progressive Politics is Being Etched in Code"</a> 
+                        </p>
+                        <p>
+                            <a target="_blank" href="https://www.resistancedashboard.com/node/293">Nathaniel G. Pearlman for The Battlefield Podcast, ProgCode's Rapi Castillo</a> 
+                        </p>
+                        <p>
+                            <a target="_blank" href="https://www.campaignsandelections.com/campaign-insider/how-campaigns-are-tapping-into-the-bernie-network">Adriel Hampton for Campaigns & Elections, "How Campaigns Are Tapping Into The Bernie Network"</a> 
+                        </p>
+                        <p>
+                            <a target="_blank" href="https://civichall.org/civicist/inside-open-source-force-progressives/">Angel Quicksey for Civicist, "Inside An Open Source Force for Progressives"</a> 
+                        </p>
+                        <p>
+                            <a target="_blank" href="https://www.youtube.com/watch?v=0e1XwFvr6Zk">Rapi Castillo presents Codeland - NYC 2017, "The Bernie Map: Building tools for the Progressive Movement"</a> 
+                        </p>
+                        <p>
+                            <a target="_blank" href="https://www.youtube.com/watch?v=VRoXTLLMB3Q">Rapi Castillo presents Personal Democracy Forum Keynote, "Open Source Movements"</a> 
+                        </p>
+                        <p>
+                            <a target="_blank" href="https://youtu.be/-C8OiSRwyF0">Benjamin Yee for Organizing 2.0 NYC 2017, Rapi Castillo presents Carpool Action and Progressive Coders Network</a> 
+                        </p>
+                        <p>
+                            <a target="_blank" href="http://opensupporter.org/accelerating-the-progressive-coders-network-with-osdi/">Josh Cohen for OSDI, "Accelerating The Progressive Coders Network with Open Supporter Data Interface"</a> 
+                        </p>
+                    </div>
+                </div>
+                <div class="col-md-4 sm-12 text-center">
                     <h2 class="section-heading">Tweets</h2>
                     <a class="twitter-timeline" data-width="300" data-height="533" href="https://twitter.com/prog_code?ref_src=twsrc%5Etfw">Tweets by prog_code</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
                 </div>
+          </div>
+          <div classs = "row">
           </div>
         </div>
     </div>
@@ -243,6 +289,7 @@
                 <div class="col-lg-12">
                     <ul class="list-inline">
                     </ul>
+                    <p class="copyright text-muted small" style="font-style: italic;">Built by ProgCode Volunteers with <i class="fa fa-heart" aria-hidden="true" style="color: red;"></i></p>
                     <p class="copyright text-muted small">Copyright &copy; 2017-2018 Progressive Coders Network. All Rights Reserved. Theme by <a href='http://startbootstrap.com/' target='_blank'>Start Bootstrap</a></p>
                 </div>
             </div>
@@ -267,11 +314,11 @@
             .attr("class", "project-content-container col-lg-4 col-sm-6")
             .html(function(d) {
 
-              var owner = d.owner_url != "" ? "<a href='" + d.owner_url + "'>" + d.owner + "</a>" : d.owner;
-              var channel_button = d.channel && d.channel != "" ? "<a href='//progco.de/join'\n                data-toggle=\"tooltip\"\n                title=\"" + d.channel + "\"\n                data-placement=\"top\"\n                class='proj-links'><img src='./img/slack.png' height='20' width='20'></a>" : "";
+              var owner = d.owner_url != "" ? "<a target=\"_blank\" href='" + d.owner_url + "'>" + d.owner + "</a>" : d.owner;
+              var channel_button = d.channel && d.channel != "" ? "<a target=\"_blank\" href='//progco.de/join'\n                data-toggle=\"tooltip\"\n                title=\"" + d.channel + "\"\n                data-placement=\"top\"\n                class='proj-links'><img src='./img/slack.png' height='20' width='20'></a>" : "";
 
-              var project_button = d.project_url && d.project_url != "" ? "\n                <a href='" + d.project_url + "'\n                  data-toggle=\"tooltip\"\n                  title=\"Contribute\"\n                  data-placement=\"top\"\n                  class='proj-links'><i class='fa fa-github fa-fw' aria-hidden='true'></i></a>\n              " : "";
-              var ret = "\n            <div class='project-item'>\n              <div class='project-image' style='background-image: url(" + d.site_image + ")'>\n                <div class=''>\n                  \n                  <div class='clearfix'></div>\n                </div>\n              </div>\n              <div class='project-details'>\n                <div>\n                  <span class='owner-image' style='background-image: url(" + d.owner_image + ")'></span>\n                  <h4><a href='" + d.site_url + "'>" + d.name + "</a></h4>\n                  <h5>" + d.description + "</h5>\n                </div>\n                <div class='clearfix'></div>\n                <div class='links-area'>\n                  " + channel_button + "&nbsp;" + project_button + "\n                </div>\n              </div>\n            </div>\n            "
+              var project_button = d.project_url && d.project_url != "" ? "\n                <a target=\"_blank\" href='" + d.project_url + "'\n                  data-toggle=\"tooltip\"\n                  title=\"Contribute\"\n                  data-placement=\"top\"\n                  class='proj-links'><i class='fa fa-github fa-fw' aria-hidden='true'></i></a>\n              " : "";
+              var ret = "\n            <div class='project-item'>\n              <div class='project-image' style='background-image: url(" + d.site_image + ")'>\n                <div class=''>\n                  \n                  <div class='clearfix'></div>\n                </div>\n              </div>\n              <div class='project-details'>\n                <div>\n                  <span class='owner-image' style='background-image: url(" + d.owner_image + ")'></span>\n                  <h4><a target=\"_blank\" href='" + d.site_url + "'>" + d.name + "</a></h4>\n                  <h5>" + d.description + "</h5>\n                </div>\n                <div class='clearfix'></div>\n                <div class='links-area'>\n                  " + channel_button + "&nbsp;" + project_button + "\n                </div>\n              </div>\n            </div>\n            "
               ;
 
               return ret;

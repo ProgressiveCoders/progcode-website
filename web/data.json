@@ -49,4 +49,13 @@
 	"site_image": "https://avatars3.githubusercontent.com/u/26628693",
 	"is_featured": "TRUE",
 	"channel": "#maps-for-change"
+},  {
+	"name": "Every Public Meeting",
+	"owner": "Include People",
+	"description": "Local meetings happen all the time. Find them easily and turn people out with a single text.",
+  "site_url": "https://github.com/includepeople/everypublicmeeting",
+	"project_url": "http://everypublicmeeting.com",
+	"site_image": "https://i.imgur.com/ryvoZEu.png",
+	"is_featured": "TRUE",
+	"channel": "#local-organizing"
 }]

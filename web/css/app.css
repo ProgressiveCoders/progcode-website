@@ -402,9 +402,9 @@ h6 {
   padding-top: 160px;
   padding-bottom: 0px;
   text-align: center;
-  background-color: #73e9cf; }
+  background-color: #64ffda; }
   .intro-header .btn-lg {
-    background-color: #e21065; }
+    background-color: #ea098c }
 
 .intro-message {
   position: relative;
@@ -555,24 +555,25 @@ h3 a {
 #the-plan {
   padding-top: 80px;
   padding-bottom: 80px;
-  background: #b39cff; }
+  background: #a0f;
+  color: white; }
   #the-plan .img-container {
     height: 110px; }
 
 #projects-area {
-  background: #f2cd76; }
+  background: white; }
 
 #get-started {
-  background: #73e9cf;
+  background: #64ffda;
   padding: 50px 0 80px; }
   #get-started .btn-lg {
     background: #0096fb; }
 
 #media {
-  background: #eeeee0; }
+  background: #white; }
 
 .btn-md.btn-blue {
-  background-color: #0096fb;
+  background-color: #00b0ff;
   color: white !important;
   border-radius: 20px;
   border: none;
@@ -580,7 +581,7 @@ h3 a {
   margin-top: 10px;
   display: inline-block; }
   .btn-md.btn-blue:hover {
-    background-color: #e21065 !important; }
+    background-color: #ea098c !important; }
 
 nav.navbar-default {
   background-color: white; }
@@ -601,7 +602,9 @@ div#projects-area .project-content-container:hover .project-item .project-image 
 div#projects-area .project-content-container .project-item {
   height: 300px;
   border-radius: 4px;
-  margin-bottom: 30px; }
+  margin-bottom: 30px;
+  border: 1px solid #00b0ff;
+  padding: 0 0 0 1px; }
   div#projects-area .project-content-container .project-item h5 {
     margin-top: 10px !important; }
   div#projects-area .project-content-container .project-item .project-image {

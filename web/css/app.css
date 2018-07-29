@@ -572,7 +572,7 @@ h3 a {
   background: #ffffff; }
 
 .btn-md.btn-blue {
-  background-color: #0096fb;
+  background-color: #00b0ff;
   color: white !important;
   border-radius: 20px;
   border: none;
@@ -580,7 +580,7 @@ h3 a {
   margin-top: 10px;
   display: inline-block; }
   .btn-md.btn-blue:hover {
-    background-color: #e21065 !important; }
+    background-color: #ea098c !important; }
 
 nav.navbar-default {
   background-color: white; }

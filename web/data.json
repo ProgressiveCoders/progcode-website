@@ -1,20 +1,18 @@
-[
-	{
-		"name": "National Voter File",
-		"description": "Challenges voter data monopolies by providing an easy-to-use, modern crowdsourced database of voter files.",
-	  "site_url": "http://www.ourrevolution.com",
-		"project_url": "https://github.com/national-voter-file",
-		"slack_url": "http://www.nationalvoterfile.org",
-		"channel": "#national-voter-file",
-		"site_image": "/img/projects/nvf.png",
-		"is_featured": "TRUE"
-	},
-	{
+[{
+	"name": "National Voter File",
+	"description": "Challenges voter data monopolies by providing an easy-to-use, modern crowdsourced database of voter files.",
+	"site_url": "http://www.ourrevolution.com",
+	"project_url": "https://github.com/national-voter-file",
+	"slack_url": "http://www.nationalvoterfile.org",
+	"channel": "#national-voter-file",
+	"site_image": "/img/projects/nvf.png",
+	"is_featured": "TRUE"
+}, {
 	"name": "Issue Voter",
 	"description": "Receive targeted alerts before Congress votes, Send your opinion directly to your rep, and Track your rep’s votes and bill outcomes.",
-  "owner_url": "",
+	"owner_url": "",
 	"project_url": "",
-  "site_url": "http://www.issuevoter.org",
+	"site_url": "http://www.issuevoter.org",
 	"slack_url": "",
 	"owner_image": "",
 	"site_image": "/img/projects/issuevoter.jpg",
@@ -25,7 +23,7 @@
 	"description": "Carpool Vote is a platform that introduces volunteer drivers to people who need a ride to the polling station. Like Uber, but for elections!",
 	"project_url": "https://github.com/voteamerica",
 	"slack_url": "#carpool-action",
-  "site_url": "http://www.carpoolvote.com",
+	"site_url": "http://www.carpoolvote.com",
 	"owner_image": "",
 	"site_image": "/img/projects/carpoolvote.jpg",
 	"channel": "#carpool-action",
@@ -34,27 +32,27 @@
 	"name": "Code Corps",
 	"owner": "Josh Smith",
 	"description": "Building a better future together. Work on open source for social good.",
-  "site_url": "http://codecorps.org",
-  "owner_url": "https://github.com/JoshSmith",
+	"site_url": "http://codecorps.org",
+	"owner_url": "https://github.com/JoshSmith",
 	"project_url": "https://github.com/code-corps",
 	"site_image": "http://i.imgur.com/Y1QjWCH.png",
 	"channel": "#code-corps",
 	"is_featured": "TRUE"
-},  {
+}, {
 	"name": "Maps for Change",
 	"owner": "",
 	"description": "Map for presenting data from events-etl and OSDI",
-  "site_url": "https://github.com/Maps-for-Change",
+	"site_url": "https://github.com/Maps-for-Change",
 	"project_url": "https://github.com/Maps-for-Change",
 	"site_image": "https://avatars3.githubusercontent.com/u/26628693",
 	"is_featured": "TRUE",
 	"channel": "#maps-for-change"
-},  {
+}, {
 	"name": "Every Public Meeting",
 	"owner": "Include People",
 	"description": "Local meetings happen all the time. Find them easily and turn people out with a single text.",
-  "site_url": "https://github.com/includepeople/everypublicmeeting",
-	"project_url": "http://everypublicmeeting.com",
+	"site_url": "http://everypublicmeeting.com",
+	"project_url": "https://github.com/includepeople/everypublicmeeting",
 	"site_image": "https://i.imgur.com/ryvoZEu.png",
 	"is_featured": "TRUE",
 	"channel": "#local-organizing"

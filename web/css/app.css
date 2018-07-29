@@ -402,7 +402,7 @@ h6 {
   padding-top: 160px;
   padding-bottom: 0px;
   text-align: center;
-  background-color: #73e9cf; }
+  background-color: #aae8ff; }
   .intro-header .btn-lg {
     background-color: #e21065; }
 
@@ -555,21 +555,21 @@ h3 a {
 #the-plan {
   padding-top: 80px;
   padding-bottom: 80px;
-  background: #b39cff; }
+  background: #bea4ff; }
   #the-plan .img-container {
     height: 110px; }
 
 #projects-area {
-  background: #f2cd76; }
+  background: #ffffbc; }
 
 #get-started {
-  background: #73e9cf;
+  background: #98ffb3;
   padding: 50px 0 80px; }
   #get-started .btn-lg {
     background: #0096fb; }
 
 #media {
-  background: #eeeee0; }
+  background: #ffffff; }
 
 .btn-md.btn-blue {
   background-color: #0096fb;

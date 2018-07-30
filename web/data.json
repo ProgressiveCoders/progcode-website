@@ -56,4 +56,12 @@
 	"site_image": "https://i.imgur.com/ryvoZEu.png",
 	"is_featured": "TRUE",
 	"channel": "#local-organizing"
+}, {
+	"name": "Princeton Gerrymandering Project",
+	"owner": "Sam Wang",
+	"description": "We bridge the gap between mathematics and the law to achieve fair representation through redistricting reform.",
+	"site_url": "http://gerrymander.princeton.edu",
+	"project_url": "https://github.com/PrincetonUniversity/gerrymander-geoprocessing",
+	"site_image": "https://user-images.githubusercontent.com/228733/43412887-5e0fc32c-93e3-11e8-998d-eb9773fd8cac.png",
+	"is_featured": "TRUE",
 }]

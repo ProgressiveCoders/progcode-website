@@ -569,7 +569,7 @@ h3 a {
     background: #0096fb; }
 
 #media {
-  background: #ffffff; }
+  background: white url(https://i.imgur.com/HjPKI09.png) no-repeat center center; }
 
 .btn-md.btn-blue {
   background-color: #00b0ff;

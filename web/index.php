@@ -199,14 +199,13 @@
 
     <div id="get-started">
         <div class="container">
-          <div class="row">
             <div class="row">
                 <div class="col-md-5 sm-12 text-center">
                     <h2 class="section-heading">Get Started</h2>
                     <p class="lead">The toolkit provides you everything you need to leverage ProgCode, empower the grassroots, and remove the influence of money in politics</p>
                     <p>
                         <a href="//toolkit.progcode.org" target="_blank">
-                        <img src='/img/screenshot.png' width="400px"/>
+                        <img src='/img/screenshot.png' style="max-width:100%;" />>
                         </a>
                         <br/>
                     </p>

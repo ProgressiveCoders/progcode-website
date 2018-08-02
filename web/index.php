@@ -305,32 +305,42 @@
     <script src="https://d3js.org/d3.v4.min.js"></script>
     <script type="text/javascript">
     var func = function(window, d3, $) {
-      d3.json("./data.json?q=2016", function(data) {
-        d3.select("#projects-container").selectAll(".project-content-container")
-          .data(data)
-          .enter()
-          .append("div")
-            .attr("class", "project-content-container col-lg-4 col-sm-6")
-            .html(function(d) {
-
-              var owner = d.owner_url != "" ? "<a target=\"_blank\" href='" + d.owner_url + "'>" + d.owner + "</a>" : d.owner;
-              var channel_button = d.channel && d.channel != "" ? "<a target=\"_blank\" href='//progco.de/join'\n                data-toggle=\"tooltip\"\n                title=\"" + d.channel + "\"\n                data-placement=\"top\"\n                class='proj-links'><img src='./img/slack.png' height='20' width='20'></a>" : "";
-
-              var project_button = d.project_url && d.project_url != "" ? "\n                <a target=\"_blank\" href='" + d.project_url + "'\n                  data-toggle=\"tooltip\"\n                  title=\"Contribute\"\n                  data-placement=\"top\"\n                  class='proj-links'><i class='fa fa-github fa-fw' aria-hidden='true'></i></a>\n              " : "";
-              var ret = "\n            <div class='project-item'>\n              <div class='project-image' style='background-image: url(" + d.site_image + ")'>\n                <div class=''>\n                  \n                  <div class='clearfix'></div>\n                </div>\n              </div>\n              <div class='project-details'>\n                <div>\n                  <span class='owner-image' style='background-image: url(" + d.owner_image + ")'></span>\n                  <h4><a target=\"_blank\" href='" + d.site_url + "'>" + d.name + "</a></h4>\n                  <h5>" + d.description + "</h5>\n                </div>\n                <div class='clearfix'></div>\n                <div class='links-area'>\n                  " + channel_button + "&nbsp;" + project_button + "\n                </div>\n              </div>\n            </div>\n            "
-              ;
-
-              return ret;
-            });
-
-        $(function () {
-          $('[data-toggle="tooltip"]').tooltip()
-        })
-      });
-
-    }(window, d3, jQuery);
-
-
+	d3.json("./data.json?q=2016", function(data) {
+		d3.select("#projects-container").selectAll(".project-content-container").data(data).enter().append("div").attr("class", "project-content-container col-lg-4 col-sm-6").html(function(d) {
+			var ret = "";
+			ret += "<div class='project-item'>";
+			//ret += "<a target=\"_blank\" href=\"" + d.site_url + "\">";
+			ret += "<div class='project-image' style='background-image: url(";
+			ret += d.site_image;
+			ret += ")'>";
+			//ret += "</a>";
+			ret += "<div class='clearfix'></div></div><div class='project-details'>";
+			ret += "<div>";
+			if (notEmpty(d.owner_image)) {
+				ret += "<span class='owner-image' style='background-image: url(" + d.owner_image + ")'></span>";
+			}
+			ret += "<h4><a target=\"_blank\" href='" + d.site_url + "'>" + d.name + "</a></h4>";
+			ret += "<h5>" + d.description + "</h5>";
+			ret += "</div>";
+			ret += "<div class='clearfix'></div>";
+			var owner = d.owner_url != "" ? "<a target=\"_blank\" href='" + d.owner_url + "'>" + d.owner + "</a>" : d.owner;
+			var channel_button = "";
+			if (notEmpty(d.channel)) {
+				channel_button = "<a target=\"_blank\" href='//progco.de/join' data-toggle=\"tooltip\" title=\"" + d.channel + "\" data-placement=\"top\" class='proj-links'>" + "<img src='./img/slack.png' height='20' width='20'></a>";
+			}
+			var project_button = "";
+			if (notEmpty(d.project_url)) {
+				project_button = "<a target=\"_blank\" href='" + d.project_url + "' data-toggle=\"tooltip\" title=\"Contribute\" data-placement=\"top\" class='proj-links'>" + "<i class='fa fa-github fa-fw' aria-hidden='true'></i></a>";
+			}
+			ret += "<div class='links-area'>" + channel_button + "&nbsp;" + project_button + "</div></div></div>";
+			console.log(ret);
+			return ret;
+		});
+		$(function() {
+			$('[data-toggle="tooltip"]').tooltip()
+		})
+	});
+}(window, d3, jQuery);
     </script>
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

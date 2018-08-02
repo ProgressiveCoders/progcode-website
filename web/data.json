@@ -80,7 +80,7 @@
 	"description": "Open source peer to peer SMS organizing tool to mobilize members to action. Upload phone numbers, customize scripts and assign volunteers to communicate with supporters.",
 	"site_url": "https://opensource.moveon.org/spoke-p2p",
 	"project_url": "https://github.com/MoveOnOrg/Spoke",
-	"site_image": "/img/projects/spoke2.png",
+	"site_image": "/img/projects/spoke.jpg",
 	"is_featured": "TRUE",
 	"channel": "#spoke"
 }, {

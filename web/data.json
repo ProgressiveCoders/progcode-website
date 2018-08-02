@@ -19,13 +19,13 @@
 	"channel": "#issue-voter",
 	"is_featured": "TRUE"
 }, {
-	"name": "Carpool Vote",
-	"description": "Carpool Vote is a platform that introduces volunteer drivers to people who need a ride to the polling station. Like Uber, but for elections!",
+	"name": "Carpool Action",
+	"description": "Recruit volunteer drivers to give voters a ride to obtain Voter ID, register to vote or claim their vote at the polls on Election Day.",
 	"project_url": "https://github.com/voteamerica",
 	"slack_url": "#carpool-action",
 	"site_url": "http://www.carpoolvote.com",
 	"owner_image": "",
-	"site_image": "/img/projects/carpoolvote.jpg",
+	"site_image": "/img/projects/carpoolaction.png",
 	"channel": "#carpool-action",
 	"is_featured": "TRUE"
 }, {
@@ -57,11 +57,40 @@
 	"is_featured": "TRUE",
 	"channel": "#local-organizing"
 }, {
-	"name": "Princeton Gerrymandering Project",
+	"name": "Princeton Gerrymandering <br/> Project",
 	"owner": "Sam Wang",
 	"description": "We bridge the gap between mathematics and the law to achieve fair representation through redistricting reform.",
 	"site_url": "http://gerrymander.princeton.edu",
 	"project_url": "https://github.com/PrincetonUniversity/gerrymander-geoprocessing",
 	"site_image": "https://user-images.githubusercontent.com/228733/43412887-5e0fc32c-93e3-11e8-998d-eb9773fd8cac.png",
-	"is_featured": "TRUE"
-}]
+	"is_featured": "TRUE",
+	"channel": " "
+}, {
+	"name": "Magnify Progress",
+	"owner": "Malous Kossarian",
+	"description": "A social platform for organizations and activists to motivate everyday people to connect with each other and take progressive action.",
+	"site_url": "http://magnifyprogress.com",
+	"project_url": "",
+	"site_image": "/img/projects/magnify_progress.png",
+	"is_featured": "TRUE",
+	"channel": "#magnify-progress"
+}, {
+	"name": "Spoke",
+	"owner": "",
+	"description": "Open source peer to peer SMS organizing tool to mobilize members to action. Upload phone numbers, customize scripts and assign volunteers to communicate with supporters.",
+	"site_url": "https://opensource.moveon.org/spoke-p2p",
+	"project_url": "https://github.com/MoveOnOrg/Spoke",
+	"site_image": "/img/projects/spoke.png",
+	"is_featured": "TRUE",
+	"channel": "#spoke"
+}, {
+	"name": "Union Base",
+	"owner": "",
+	"description": "The labor movement's social network and search engine, revolutionizing labor organizing.",
+	"site_url": "https://unionbase.org",
+	"project_url": "",
+	"site_image": "/img/projects/unionbase.png",
+	"is_featured": "TRUE",
+	"channel": "#unionbase-builders"
+}
+]

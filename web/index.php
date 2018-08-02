@@ -304,6 +304,7 @@
 
     <script src="https://d3js.org/d3.v4.min.js"></script>
     <script type="text/javascript">
+    function notEmpty(myVar) { return myVar && (typeof myVar === 'string' || myVar instanceof String) && myVar.trim().length; }
     var func = function(window, d3, $) {
 	d3.json("./data.json?q=2016", function(data) {
 		d3.select("#projects-container").selectAll(".project-content-container").data(data).enter().append("div").attr("class", "project-content-container col-lg-4 col-sm-6").html(function(d) {

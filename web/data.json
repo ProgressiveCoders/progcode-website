@@ -2,7 +2,7 @@
 	"name": "National Voter File",
 	"description": "Challenges voter data monopolies by providing an easy-to-use, modern crowdsourced database of voter files.",
 	"site_url": "https://www.nationalvoterfile.org/",
-	"project_url": "https://github.com/national-voter-file",
+	"project_url": "https://github.com/national-voter-file/national-voter-file",
 	"slack_url": "http://progco.de/join",
 	"channel": "#national-voter-file",
 	"site_image": "/img/projects/nvf.png",

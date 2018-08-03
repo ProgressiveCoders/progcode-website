@@ -15,6 +15,7 @@
     <meta property="og:image" content="http://www.progcode.co/img/social-media-1.png" />
     <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500" rel="stylesheet">
     <link rel="shortcut icon" href="/img/logo-only.png" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
     <title>Progressive Coders Network</title>
 
     <!-- Bootstrap Core CSS -->
@@ -331,9 +332,20 @@
 			}
 			var project_button = "";
 			if (notEmpty(d.project_url)) {
-				project_button = "<a target=\"_blank\" href='" + d.project_url + "' data-toggle=\"tooltip\" title=\"Contribute\" data-placement=\"top\" class='proj-links'>" + "<i class='fa fa-github fa-fw' aria-hidden='true'></i></a>";
+				project_button = "<a target=\"_blank\" href='" + d.project_url + "' data-toggle=\"tooltip\" title=\"Contribute\" data-placement=\"top\" class='proj-links'>" + "<i class='fab fa-github' aria-hidden='true'></i></a>";
 			}
-			ret += "<div class='links-area'>" + channel_button + "&nbsp;" + project_button + "</div></div></div>";
+			var gitlab_button = "";
+			if (notEmpty(d.gitlab_url)) {
+				gitlab_button = "<a target=\"_blank\" href='" + d.gitlab_url + "' data-toggle=\"tooltip\" title=\"Contribute\" data-placement=\"top\" class='proj-links'>" + "<i class='fab fa-gitlab' aria-hidden='true'></i></a>";
+            }
+            if(notEmpty(project_button))
+            {
+                ret += "<div class='links-area'>" + channel_button + "&nbsp;" + project_button + "</div></div></div>";
+            }
+            else
+            {
+                ret += "<div class='links-area'>" + channel_button + "&nbsp;" + gitlab_button + "</div></div></div>";
+            }
 			console.log(ret);
 			return ret;
 		});

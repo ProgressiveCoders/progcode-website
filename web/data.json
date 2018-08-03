@@ -101,5 +101,14 @@
 	"site_image": "/img/projects/wobbly_logo.jpg",
 	"is_featured": "TRUE",
 	"channel": "#wobbly"
+}, {
+	"name": "CivicCRM Turfcutter",
+	"owner": "",
+	"description": "The CiviCRM Turfcutter provides an easy-to-use interface for assigning volunteers to groups of individuals (turfs) or for creating new groups of individuals using maps and polygons. This is very useful in campaigns when a campaign manager is trying to assign a volunteer to a group of voters to canvass.",
+	"site_url": "https://gitlab.com/asludds/civicrm-turfcutter",
+	"gitlab_url": "https://gitlab.com/asludds/civicrm-turfcutter",
+	"site_image": "/img/projects/turfcutter.png",
+	"is_featured": "TRUE",
+	"channel": "#civicrm-turfcutter"
 }
 ]

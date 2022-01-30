@@ -1,7 +1,7 @@
 # php-getting-started
 
 > Deprecation Notice: This site is in the process of reconstruction, as the Silex framework no longer exists.
-> Share your input [here](https://docs.google.com/document/d/1S0dLtmTAh8fwe9P_za8JFOFduxWRT26dtwvXKiOPowQ/edit?usp=sharing).
+> Share your input on the new ProgCode website [here](https://docs.google.com/document/d/1S0dLtmTAh8fwe9P_za8JFOFduxWRT26dtwvXKiOPowQ/edit?usp=sharing).
 
 A barebones PHP app that makes use of the [Silex](http://silex.sensiolabs.org/) web framework, which can easily be deployed to Heroku.
 

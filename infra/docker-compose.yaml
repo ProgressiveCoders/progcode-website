@@ -1,0 +1,28 @@
+version: "3"
+
+services:
+  traefik:
+    # The configuration for Traefik is being pulled from this tutorial
+    # https://traefik.io/blog/traefik-2-tls-101-23b4fbee81f1/
+    image: traefik:2
+    command:
+      - "--entrypoints.web.address=:80"
+      - "--providers.docker=true"
+      - "--entrypoints.web-secure.address=:443"
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - "/var/run/docker.sock:/var/run/docker.sock:ro"
+
+  wordpress:
+    labels:
+      - "traefik.http.routers.wordpress.rule=Host(`dev.progcode.org`)"
+      - "traefik.http.routers.wordpress.tls=true"
+  mysql:
+    image: mysql:8
+
+  
+networks:
+  # db_net:
+  proxy_net:

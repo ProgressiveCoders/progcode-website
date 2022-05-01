@@ -16,6 +16,8 @@ resource "digitalocean_droplet" "wordpress" {
   name   = "progcode-wordpress"
   region = "nyc3"
   size   = "s-1vcpu-2gb"
+  user_data =  data.template_file.user_data.rendered
+
 }
 
 resource "digitalocean_volume" "wp-data" {

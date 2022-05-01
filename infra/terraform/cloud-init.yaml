@@ -1,0 +1,11 @@
+users:
+  - default
+  - name: ubuntu
+    gecos: ubuntu
+    primary_group: ubuntu
+    sudo: ALL=(ALL) NOPASSWD:ALL
+    groups: users, admin
+    ssh_import_id:
+    lock_passwd: false
+    ssh_authorized_keys:
+      - "ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBDvhhbyqcW3jZb9CnPq1iL1dduf556tkKYshNfDtImmC4Zdk5OJmcWoqgmU+N15QJ4NJ3P7NqHIsC2t1SYuNdDE="

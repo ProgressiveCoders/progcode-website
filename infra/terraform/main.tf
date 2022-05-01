@@ -5,6 +5,9 @@ terraform {
       version = "~> 2.0"
     }
   }
+  backend "local" {
+    path = "progcode-website-tf-state/website-state.tfstate"
+  }
 }
 
 data "template_file" "user_data" {

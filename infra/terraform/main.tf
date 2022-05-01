@@ -7,6 +7,10 @@ terraform {
   }
 }
 
+data "template_file" "user_data" {
+  template = file("cloud-init.yaml")
+}
+
 resource "digitalocean_droplet" "wordpress" {
   image  = "ubuntu-22-04-x64"
   name   = "progcode-wordpress"

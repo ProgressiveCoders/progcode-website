@@ -10,6 +10,8 @@ terraform {
 data "template_file" "user_data" {
   template = file("cloud-init.yaml")
 }
+// Passes data via cloud-init
+// set docs: https://learn.hashicorp.com/tutorials/terraform/cloud-init
 
 resource "digitalocean_droplet" "wordpress" {
   image  = "ubuntu-22-04-x64"

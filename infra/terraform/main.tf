@@ -27,6 +27,11 @@ resource "digitalocean_droplet" "wordpress" {
 
 }
 
+resource "digitalocean_floating_ip" "foobar" {
+  droplet_id = digitalocean_droplet.wordpress.id
+  region     = digitalocean_droplet.wordpress.region
+}
+
 resource "digitalocean_volume" "wp-data" {
   region = "nyc3"
   name = "wp-data"

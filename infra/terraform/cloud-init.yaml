@@ -4,7 +4,7 @@ users:
     gecos: ubuntu
     primary_group: ubuntu
     sudo: ALL=(ALL) NOPASSWD:ALL
-    groups: users, admin
+    groups: users, admin, docker
     ssh_import_id:
     lock_passwd: false
     ssh_authorized_keys:
